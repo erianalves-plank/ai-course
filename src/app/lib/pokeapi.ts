@@ -29,6 +29,21 @@ export type PokemonCardData = {
   artworkUrl: string;
 };
 
+export type PokemonGridData = {
+  id: number;
+  name: string;
+  types: PokemonType[];
+  artworkUrl: string;
+};
+
+export type StatLine = { name: string; value: number };
+
+export type PokemonDetailData = PokemonCardData & {
+  description: string;
+  stats: StatLine[];
+  abilities: { name: string; isHidden: boolean }[];
+};
+
 type PokemonResource = {
   id: number;
   name: string;
@@ -41,14 +56,21 @@ type PokemonResource = {
       "official-artwork": { front_default: string | null };
     };
   };
+  stats: { stat: { name: string }; base_stat: number }[];
 };
 
 type SpeciesResource = {
   genera: { genus: string; language: { name: string } }[];
+  flavor_text_entries: {
+    flavor_text: string;
+    language: { name: string };
+    version: { name: string };
+  }[];
 };
 
 const POKEAPI = "https://pokeapi.co/api/v2";
 const POOL_SIZE = 151;
+export const GEN_1_MAX = 151;
 
 export async function fetchRandomPokemon(count: number): Promise<PokemonCardData[]> {
   const ids = sampleUniqueIds(count, POOL_SIZE);
@@ -81,6 +103,68 @@ async function fetchPokemonCard(id: number): Promise<PokemonCardData> {
       pokemon.sprites.other["official-artwork"].front_default ??
       `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`,
   };
+}
+
+export function getAllGen1Ids(): number[] {
+  return Array.from({ length: GEN_1_MAX }, (_, i) => i + 1);
+}
+
+export async function fetchPokemonGrid(id: number): Promise<PokemonGridData> {
+  const pokemon = await fetch(`${POKEAPI}/pokemon/${id}`, {
+    cache: "force-cache",
+  }).then((r) => r.json() as Promise<PokemonResource>);
+
+  return {
+    id: pokemon.id,
+    name: pokemon.name,
+    types: pokemon.types.map((t) => t.type.name),
+    artworkUrl: artworkFor(pokemon),
+  };
+}
+
+export async function fetchPokemonDetail(id: number): Promise<PokemonDetailData> {
+  const [pokemon, species] = await Promise.all([
+    fetch(`${POKEAPI}/pokemon/${id}`, { cache: "force-cache" }).then(
+      (r) => r.json() as Promise<PokemonResource>,
+    ),
+    fetch(`${POKEAPI}/pokemon-species/${id}`, { cache: "force-cache" }).then(
+      (r) => r.json() as Promise<SpeciesResource>,
+    ),
+  ]);
+
+  const sortedAbilities = [...pokemon.abilities].sort((a, b) => a.slot - b.slot);
+  const englishGenus =
+    species.genera.find((g) => g.language.name === "en")?.genus ?? "Pokémon";
+  const englishFlavor =
+    species.flavor_text_entries.find((e) => e.language.name === "en")
+      ?.flavor_text ?? "";
+
+  return {
+    id: pokemon.id,
+    name: pokemon.name,
+    types: pokemon.types.map((t) => t.type.name),
+    heightM: pokemon.height / 10,
+    weightKg: pokemon.weight / 10,
+    abilityName: sortedAbilities[0]?.ability.name ?? "—",
+    abilities: sortedAbilities.map((a) => ({
+      name: a.ability.name,
+      isHidden: a.is_hidden,
+    })),
+    genus: englishGenus,
+    artworkUrl: artworkFor(pokemon),
+    description: englishFlavor.replace(/\s+/g, " ").trim(),
+    stats: pokemon.stats.map((s) => ({
+      name: s.stat.name,
+      value: s.base_stat,
+    })),
+  };
+}
+
+function artworkFor(pokemon: PokemonResource): string {
+  return (
+    pokemon.sprites.other["official-artwork"].front_default ??
+    `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`
+  );
 }
 
 function sampleUniqueIds(count: number, max: number): number[] {

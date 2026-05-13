@@ -92,7 +92,7 @@ export default async function Home() {
       <section className="relative flex flex-1 flex-col items-center justify-end pb-10">
         <div className="flex flex-col items-center gap-2 sm:flex-row sm:gap-4">
           <Link
-            href="/wip"
+            href="/pokedex"
             className="inline-flex h-11 items-center justify-center rounded-full px-7 text-sm font-semibold text-white shadow-md transition-colors"
             style={{ backgroundColor: POKEBALL_RED }}
           >
