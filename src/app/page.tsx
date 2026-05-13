@@ -1,4 +1,8 @@
 import Link from "next/link";
+import { PokemonCarousel } from "./_components/PokemonCarousel";
+import { fetchRandomPokemon } from "./lib/pokeapi";
+
+export const dynamic = "force-dynamic";
 
 const POKEBALL_RED = "#DC0A2D";
 const CREAM = "#F7EFDF";
@@ -21,13 +25,13 @@ const TYPE_ICONS: TypeIcon[] = [
   { top: "16%", left: "44%", size: 24, rotate: 0, path: "M13 2L4 14h6l-1 8 9-12h-6l1-8z" },
 ];
 
-export default function Home() {
+export default async function Home() {
+  const pokemons = await fetchRandomPokemon(6);
+
   return (
-    <div
-      className="relative flex h-screen flex-col overflow-hidden"
-      style={{ backgroundColor: CREAM }}
-    >
-      {/* Red hero panel — top 62% */}
+    <div className="flex flex-col" style={{ backgroundColor: CREAM }}>
+      <section className="relative flex h-screen flex-col overflow-hidden">
+        {/* Red hero panel — top 62% */}
       <section
         className="relative flex shrink-0 basis-[62%] flex-col text-white"
         style={{ backgroundColor: POKEBALL_RED }}
@@ -132,6 +136,31 @@ export default function Home() {
         <span className="h-2.5 w-2.5 rounded-full" style={{ backgroundColor: POKEBALL_RED }} />
         <span className="h-2.5 w-2.5 rounded-full" style={{ backgroundColor: `${POKEBALL_RED}66` }} />
       </div>
+      </section>
+
+      {/* Trending carousel */}
+      <section className="px-6 py-16 sm:px-12 sm:py-20">
+        <div className="mx-auto max-w-7xl">
+          <header className="mb-6 flex flex-col items-start gap-2 sm:mb-8 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p
+                className="text-xs font-bold uppercase tracking-[0.25em]"
+                style={{ color: POKEBALL_RED }}
+              >
+                Trending now
+              </p>
+              <h2 className="text-3xl font-black tracking-tight text-zinc-900 sm:text-4xl">
+                Top Pokémon of the moment
+              </h2>
+            </div>
+            <p className="max-w-md text-sm text-zinc-600">
+              A fresh handful pulled from the Pokédex on every visit. Use the
+              arrows to browse.
+            </p>
+          </header>
+          <PokemonCarousel pokemons={pokemons} />
+        </div>
+      </section>
     </div>
   );
 }
