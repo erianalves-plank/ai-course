@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const POKEBALL_RED = "#DC0A2D";
 const CREAM = "#F7EFDF";
 
@@ -85,19 +87,19 @@ export default function Home() {
       {/* Cream panel — bottom 38% */}
       <section className="relative flex flex-1 flex-col items-center justify-end pb-10">
         <div className="flex flex-col items-center gap-2 sm:flex-row sm:gap-4">
-          <a
-            href="#pokedex"
+          <Link
+            href="/wip"
             className="inline-flex h-11 items-center justify-center rounded-full px-7 text-sm font-semibold text-white shadow-md transition-colors"
             style={{ backgroundColor: POKEBALL_RED }}
           >
             Open the Pokédex
-          </a>
-          <a
-            href="#meta"
+          </Link>
+          <Link
+            href="/wip"
             className="inline-flex h-11 items-center justify-center px-2 text-sm font-medium text-zinc-700 underline-offset-4 hover:underline"
           >
             Browse the meta →
-          </a>
+          </Link>
         </div>
       </section>
 
