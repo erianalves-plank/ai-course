@@ -1,8 +1,7 @@
 import Link from "next/link";
+import { connection } from "next/server";
 import { PokemonCarousel } from "./_components/PokemonCarousel";
 import { fetchRandomPokemon } from "./lib/pokeapi";
-
-export const dynamic = "force-dynamic";
 
 const POKEBALL_RED = "#DC0A2D";
 const CREAM = "#F7EFDF";
@@ -26,6 +25,7 @@ const TYPE_ICONS: TypeIcon[] = [
 ];
 
 export default async function Home() {
+  await connection();
   const pokemons = await fetchRandomPokemon(6);
 
   return (
