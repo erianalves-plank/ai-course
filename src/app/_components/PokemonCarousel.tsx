@@ -37,7 +37,7 @@ export function PokemonCarousel({ pokemons }: Props) {
   const scrollBy = (direction: -1 | 1) => {
     const el = trackRef.current;
     if (!el) return;
-    const card = el.querySelector<HTMLElement>("article");
+    const card = el.querySelector<HTMLElement>("[data-carousel-card]");
     const step = card ? card.offsetWidth + 24 : el.clientWidth * 0.8;
     el.scrollBy({ left: direction * step, behavior: "smooth" });
   };
@@ -49,7 +49,7 @@ export function PokemonCarousel({ pokemons }: Props) {
         className="flex snap-x snap-mandatory gap-6 overflow-x-auto scroll-smooth px-6 py-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:px-12"
       >
         {pokemons.map((p) => (
-          <div key={p.id} className="snap-start">
+          <div key={p.id} data-carousel-card className="snap-start">
             <PokemonCard pokemon={p} />
           </div>
         ))}
