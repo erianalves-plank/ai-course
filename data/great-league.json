@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-14T19:17:45.752Z",
+  "scrapedAt": "2026-05-14T20:51:08.208Z",
   "source": "https://pokebase.app/pokemon-go/tier-lists/great-league-tier-list",
   "league": "great",
   "pokemon": [
@@ -19,25 +19,19 @@
           "name": "Poison Sting",
           "type": "poison",
           "category": "fast"
-        },
-        {
-          "slug": "mud-shot",
-          "name": "Mud Shot",
-          "type": "ground",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
-          "category": "charged"
-        },
-        {
           "slug": "earthquake",
           "name": "Earthquake",
           "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
           "category": "charged"
         },
         {
@@ -64,12 +58,6 @@
           "name": "Fairy Wind",
           "type": "fairy",
           "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -80,21 +68,15 @@
           "category": "charged"
         },
         {
-          "slug": "gigaton-hammer",
-          "name": "Gigaton Hammer",
-          "type": "steel",
+          "slug": "bulldoze",
+          "name": "Bulldoze",
+          "type": "ground",
           "category": "charged"
         },
         {
           "slug": "heavy-slam",
           "name": "Heavy Slam",
           "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "bulldoze",
-          "name": "Bulldoze",
-          "type": "ground",
           "category": "charged"
         }
       ]
@@ -125,12 +107,6 @@
       ],
       "chargedMoves": [
         {
-          "slug": "foul-play",
-          "name": "Foul Play",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
           "slug": "aerial-ace",
           "name": "Aerial Ace",
           "type": "flying",
@@ -139,6 +115,12 @@
         {
           "slug": "dark-pulse",
           "name": "Dark Pulse",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
           "type": "dark",
           "category": "charged"
         }
@@ -160,27 +142,9 @@
           "name": "Poison Sting",
           "type": "poison",
           "category": "fast"
-        },
-        {
-          "slug": "bite",
-          "name": "Bite",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-fang",
-          "name": "Ice Fang",
-          "type": "ice",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
-          "category": "charged"
-        },
         {
           "slug": "crunch",
           "name": "Crunch",
@@ -206,12 +170,6 @@
       "rank": 5,
       "url": "https://pokebase.app/pokemon-go/pokemon/empoleon",
       "fastMoves": [
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "metal-sound",
           "name": "Metal Sound",
@@ -245,12 +203,6 @@
       "rank": 6,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-empoleon",
       "fastMoves": [
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "metal-sound",
           "name": "Metal Sound",
@@ -289,31 +241,19 @@
           "name": "Bullet Seed",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "infestation",
-          "name": "Infestation",
-          "type": "bug",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "grass-knot",
-          "name": "Grass Knot",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "bulldoze",
-          "name": "Bulldoze",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "rock-tomb",
           "name": "Rock Tomb",
           "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
           "category": "charged"
         }
       ]
@@ -368,12 +308,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/altaria",
       "fastMoves": [
         {
-          "slug": "peck",
-          "name": "Peck",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "dragon-breath",
           "name": "Dragon Breath",
           "type": "dragon",
@@ -388,21 +322,9 @@
           "category": "charged"
         },
         {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
           "slug": "flamethrower",
           "name": "Flamethrower",
           "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
           "category": "charged"
         }
       ]
@@ -427,9 +349,9 @@
       ],
       "chargedMoves": [
         {
-          "slug": "hydro-pump",
-          "name": "Hydro Pump",
-          "type": "water",
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -439,9 +361,9 @@
           "category": "charged"
         },
         {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
+          "slug": "hydro-pump",
+          "name": "Hydro Pump",
+          "type": "water",
           "category": "charged"
         }
       ]
@@ -456,34 +378,8 @@
       "tier": "A+",
       "rank": 1,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-talonflame",
-      "fastMoves": [
-        {
-          "slug": "drill-peck",
-          "name": "Drill Peck",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "incinerate",
-          "name": "Incinerate",
-          "type": "fire",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "flame-charge",
-          "name": "Flame Charge",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "fly",
-          "name": "Fly",
-          "type": "flying",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "shadow-annihilape",
@@ -505,39 +401,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "close-combat",
-          "name": "Close Combat",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "night-slash",
-          "name": "Night Slash",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-punch",
-          "name": "Ice Punch",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "low-sweep",
-          "name": "Low Sweep",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
           "slug": "rage-fist",
           "name": "Rage Fist",
           "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
           "category": "charged"
         }
       ]
@@ -553,12 +425,6 @@
       "rank": 3,
       "url": "https://pokebase.app/pokemon-go/pokemon/guzzlord",
       "fastMoves": [
-        {
-          "slug": "snarl",
-          "name": "Snarl",
-          "type": "dark",
-          "category": "fast"
-        },
         {
           "slug": "dragon-tail",
           "name": "Dragon Tail",
@@ -612,15 +478,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "dragon-energy",
-          "name": "Dragon Energy",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
           "slug": "hyper-beam",
           "name": "Hyper Beam",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "dragon-energy",
+          "name": "Dragon Energy",
+          "type": "dragon",
           "category": "charged"
         }
       ]
@@ -635,46 +501,8 @@
       "tier": "A+",
       "rank": 5,
       "url": "https://pokebase.app/pokemon-go/pokemon/golisopod",
-      "fastMoves": [
-        {
-          "slug": "fury-cutter",
-          "name": "Fury Cutter",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "x-scissor",
-          "name": "X-Scissor",
-          "type": "bug",
-          "category": "charged"
-        },
-        {
-          "slug": "razor-shell",
-          "name": "Razor Shell",
-          "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "liquidation",
-          "name": "Liquidation",
-          "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "toxapex",
@@ -692,21 +520,9 @@
           "name": "Poison Jab",
           "type": "poison",
           "category": "fast"
-        },
-        {
-          "slug": "bite",
-          "name": "Bite",
-          "type": "dark",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "gunk-shot",
-          "name": "Gunk Shot",
-          "type": "poison",
-          "category": "charged"
-        },
         {
           "slug": "brine",
           "name": "Brine",
@@ -733,18 +549,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/corviknight",
       "fastMoves": [
         {
-          "slug": "air-slash",
-          "name": "Air Slash",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "steel-wing",
-          "name": "Steel Wing",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "sand-attack",
           "name": "Sand Attack",
           "type": "ground",
@@ -752,18 +556,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "sky-attack",
-          "name": "Sky Attack",
-          "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "iron-head",
-          "name": "Iron Head",
-          "type": "steel",
-          "category": "charged"
-        },
         {
           "slug": "air-cutter",
           "name": "Air Cutter",
@@ -882,18 +674,6 @@
           "category": "charged"
         },
         {
-          "slug": "fire-punch",
-          "name": "Fire Punch",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "dig",
-          "name": "Dig",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "hyper-beam",
           "name": "Hyper Beam",
           "type": "normal",
@@ -921,8 +701,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "discharge",
-          "name": "Discharge",
+          "slug": "parabolic-charge",
+          "name": "Parabolic Charge",
           "type": "electric",
           "category": "charged"
         },
@@ -930,12 +710,6 @@
           "slug": "play-rough",
           "name": "Play Rough",
           "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "parabolic-charge",
-          "name": "Parabolic Charge",
-          "type": "electric",
           "category": "charged"
         }
       ]
@@ -956,27 +730,9 @@
           "name": "Poison Sting",
           "type": "poison",
           "category": "fast"
-        },
-        {
-          "slug": "bite",
-          "name": "Bite",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-fang",
-          "name": "Ice Fang",
-          "type": "ice",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
-          "category": "charged"
-        },
         {
           "slug": "crunch",
           "name": "Crunch",
@@ -1007,25 +763,19 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "hidden-power",
-          "name": "Hidden Power",
-          "type": "normal",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "earth-power",
-          "name": "Earth Power",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "body-slam",
           "name": "Body Slam",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "earth-power",
+          "name": "Earth Power",
+          "type": "ground",
           "category": "charged"
         },
         {
@@ -1047,12 +797,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-dusknoir",
       "fastMoves": [
         {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
-        },
-        {
           "slug": "astonish",
           "name": "Astonish",
           "type": "ghost",
@@ -1061,26 +805,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
           "slug": "shadow-punch",
           "name": "Shadow Punch",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "ominous-wind",
-          "name": "Ominous Wind",
           "type": "ghost",
           "category": "charged"
         },
@@ -1088,12 +814,6 @@
           "slug": "dynamic-punch",
           "name": "Dynamic Punch",
           "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "dark-pulse",
-          "name": "Dark Pulse",
-          "type": "dark",
           "category": "charged"
         }
       ]
@@ -1110,12 +830,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/togekiss",
       "fastMoves": [
         {
-          "slug": "charm",
-          "name": "Charm",
-          "type": "fairy",
-          "category": "fast"
-        },
-        {
           "slug": "peck",
           "name": "Peck",
           "type": "flying",
@@ -1124,21 +838,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "flamethrower",
-          "name": "Flamethrower",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
           "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "dazzling-gleam",
+          "name": "Dazzling Gleam",
+          "type": "fairy",
           "category": "charged"
         },
         {
@@ -1165,25 +873,19 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "hidden-power",
-          "name": "Hidden Power",
-          "type": "normal",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "earth-power",
-          "name": "Earth Power",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "body-slam",
           "name": "Body Slam",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "earth-power",
+          "name": "Earth Power",
+          "type": "ground",
           "category": "charged"
         },
         {
@@ -1204,58 +906,8 @@
       "tier": "A+",
       "rank": 17,
       "url": "https://pokebase.app/pokemon-go/pokemon/claydol",
-      "fastMoves": [
-        {
-          "slug": "confusion",
-          "name": "Confusion",
-          "type": "psychic",
-          "category": "fast"
-        },
-        {
-          "slug": "mud-slap",
-          "name": "Mud Slap",
-          "type": "ground",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
-          "slug": "scorching-sands",
-          "name": "Scorching Sands",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "earth-power",
-          "name": "Earth Power",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "gyro-ball",
-          "name": "Gyro Ball",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "forretress",
@@ -1267,40 +919,8 @@
       "tier": "A+",
       "rank": 18,
       "url": "https://pokebase.app/pokemon-go/pokemon/forretress",
-      "fastMoves": [
-        {
-          "slug": "bug-bite",
-          "name": "Bug Bite",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
-          "slug": "struggle-bug",
-          "name": "Struggle Bug",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
-          "slug": "volt-switch",
-          "name": "Volt Switch",
-          "type": "electric",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "rock-tomb",
-          "name": "Rock Tomb",
-          "type": "rock",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "shadow-forretress",
@@ -1314,12 +934,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-forretress",
       "fastMoves": [
         {
-          "slug": "struggle-bug",
-          "name": "Struggle Bug",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
           "slug": "bug-bite",
           "name": "Bug Bite",
           "type": "bug",
@@ -1327,12 +941,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
         {
           "slug": "rock-tomb",
           "name": "Rock Tomb",
@@ -1369,31 +977,13 @@
           "name": "Mud Shot",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "earthquake",
-          "name": "Earthquake",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "aqua-tail",
           "name": "Aqua Tail",
           "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
           "category": "charged"
         },
         {
@@ -1426,12 +1016,6 @@
           "name": "Shadow Claw",
           "type": "ghost",
           "category": "fast"
-        },
-        {
-          "slug": "feint-attack",
-          "name": "Feint Attack",
-          "type": "dark",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -1442,15 +1026,15 @@
           "category": "charged"
         },
         {
-          "slug": "power-gem",
-          "name": "Power Gem",
-          "type": "rock",
-          "category": "charged"
-        },
-        {
           "slug": "dazzling-gleam",
           "name": "Dazzling Gleam",
           "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "power-gem",
+          "name": "Power Gem",
+          "type": "rock",
           "category": "charged"
         }
       ]
@@ -1474,18 +1058,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "earthquake",
-          "name": "Earthquake",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
-          "category": "charged"
-        },
         {
           "slug": "aqua-tail",
           "name": "Aqua Tail",
@@ -1550,24 +1122,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-feraligatr",
       "fastMoves": [
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-fang",
-          "name": "Ice Fang",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
           "type": "ghost",
@@ -1579,12 +1133,6 @@
           "slug": "hydro-cannon",
           "name": "Hydro Cannon",
           "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "crunch",
-          "name": "Crunch",
-          "type": "dark",
           "category": "charged"
         },
         {
@@ -1605,24 +1153,6 @@
       "rank": 25,
       "url": "https://pokebase.app/pokemon-go/pokemon/feraligatr",
       "fastMoves": [
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-fang",
-          "name": "Ice Fang",
-          "type": "ice",
-          "category": "fast"
-        },
         {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
@@ -1662,12 +1192,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/furret",
       "fastMoves": [
         {
-          "slug": "quick-attack",
-          "name": "Quick Attack",
-          "type": "normal",
-          "category": "fast"
-        },
-        {
           "slug": "sucker-punch",
           "name": "Sucker Punch",
           "type": "dark",
@@ -1676,33 +1200,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "hyper-beam",
-          "name": "Hyper Beam",
+          "slug": "swift",
+          "name": "Swift",
           "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "brick-break",
-          "name": "Brick Break",
-          "type": "fighting",
           "category": "charged"
         },
         {
           "slug": "trailblaze",
           "name": "Trailblaze",
           "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "dig",
-          "name": "Dig",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "swift",
-          "name": "Swift",
-          "type": "normal",
           "category": "charged"
         }
       ]
@@ -1719,12 +1225,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/jumpluff",
       "fastMoves": [
         {
-          "slug": "bullet-seed",
-          "name": "Bullet Seed",
-          "type": "grass",
-          "category": "fast"
-        },
-        {
           "slug": "fairy-wind",
           "name": "Fairy Wind",
           "type": "fairy",
@@ -1733,21 +1233,9 @@
       ],
       "chargedMoves": [
         {
-          "slug": "solar-beam",
-          "name": "Solar Beam",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
           "slug": "aerial-ace",
           "name": "Aerial Ace",
           "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
           "category": "charged"
         },
         {
@@ -1770,12 +1258,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-jumpluff",
       "fastMoves": [
         {
-          "slug": "bullet-seed",
-          "name": "Bullet Seed",
-          "type": "grass",
-          "category": "fast"
-        },
-        {
           "slug": "fairy-wind",
           "name": "Fairy Wind",
           "type": "fairy",
@@ -1783,24 +1265,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "solar-beam",
-          "name": "Solar Beam",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
-          "category": "charged"
-        },
         {
           "slug": "energy-ball",
           "name": "Energy Ball",
@@ -1827,24 +1291,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-lapras",
       "fastMoves": [
         {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-shard",
-          "name": "Ice Shard",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "psywave",
           "name": "Psywave",
           "type": "psychic",
@@ -1853,27 +1299,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "blizzard",
-          "name": "Blizzard",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
           "slug": "sparkling-aria",
           "name": "Sparkling Aria",
           "type": "water",
           "category": "charged"
         },
         {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -1899,18 +1333,12 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "earthquake",
-          "name": "Earthquake",
+          "slug": "bone-club",
+          "name": "Bone Club",
           "type": "ground",
           "category": "charged"
         },
@@ -1918,12 +1346,6 @@
           "slug": "rock-slide",
           "name": "Rock Slide",
           "type": "rock",
-          "category": "charged"
-        },
-        {
-          "slug": "bone-club",
-          "name": "Bone Club",
-          "type": "ground",
           "category": "charged"
         }
       ]
@@ -1940,24 +1362,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/lapras",
       "fastMoves": [
         {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-shard",
-          "name": "Ice Shard",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "psywave",
           "name": "Psywave",
           "type": "psychic",
@@ -1966,27 +1370,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "blizzard",
-          "name": "Blizzard",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
           "slug": "sparkling-aria",
           "name": "Sparkling Aria",
           "type": "water",
           "category": "charged"
         },
         {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -2013,33 +1405,9 @@
           "name": "Ice Shard",
           "type": "ice",
           "category": "fast"
-        },
-        {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "blizzard",
-          "name": "Blizzard",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "liquidation",
-          "name": "Liquidation",
-          "type": "water",
-          "category": "charged"
-        },
         {
           "slug": "icy-wind",
           "name": "Icy Wind",
@@ -2066,18 +1434,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/alolan-sandslash",
       "fastMoves": [
         {
-          "slug": "powder-snow",
-          "name": "Powder Snow",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
           "type": "ghost",
@@ -2085,24 +1441,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "blizzard",
-          "name": "Blizzard",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "gyro-ball",
-          "name": "Gyro Ball",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        },
         {
           "slug": "ice-punch",
           "name": "Ice Punch",
@@ -2129,18 +1467,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-alolan-sandslash",
       "fastMoves": [
         {
-          "slug": "powder-snow",
-          "name": "Powder Snow",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
           "type": "ghost",
@@ -2148,18 +1474,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "blizzard",
-          "name": "Blizzard",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "gyro-ball",
-          "name": "Gyro Ball",
-          "type": "steel",
-          "category": "charged"
-        },
         {
           "slug": "ice-punch",
           "name": "Ice Punch",
@@ -2186,24 +1500,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-charizard",
       "fastMoves": [
         {
-          "slug": "fire-spin",
-          "name": "Fire Spin",
-          "type": "fire",
-          "category": "fast"
-        },
-        {
-          "slug": "wing-attack",
-          "name": "Wing Attack",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "air-slash",
-          "name": "Air Slash",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "ember",
           "name": "Ember",
           "type": "fire",
@@ -2224,21 +1520,9 @@
           "category": "charged"
         },
         {
-          "slug": "overheat",
-          "name": "Overheat",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
           "slug": "air-cutter",
           "name": "Air Cutter",
           "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "dragon-claw",
-          "name": "Dragon Claw",
-          "type": "dragon",
           "category": "charged"
         }
       ]
@@ -2253,12 +1537,6 @@
       "rank": 36,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-blastoise",
       "fastMoves": [
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "rollout",
           "name": "Rollout",
@@ -2297,12 +1575,6 @@
           "name": "Water Shuriken",
           "type": "water",
           "category": "fast"
-        },
-        {
-          "slug": "bubble",
-          "name": "Bubble",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -2316,18 +1588,6 @@
           "slug": "night-slash",
           "name": "Night Slash",
           "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "surf",
-          "name": "Surf",
-          "type": "water",
           "category": "charged"
         }
       ]
@@ -2357,12 +1617,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "shadow-force",
-          "name": "Shadow Force",
-          "type": "ghost",
-          "category": "charged"
-        },
         {
           "slug": "dragon-claw",
           "name": "Dragon Claw",
@@ -2398,21 +1652,9 @@
           "name": "Psywave",
           "type": "psychic",
           "category": "fast"
-        },
-        {
-          "slug": "extrasensory",
-          "name": "Extrasensory",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "shadow-ball",
           "name": "Shadow Ball",
@@ -2443,21 +1685,9 @@
           "name": "Fairy Wind",
           "type": "fairy",
           "category": "fast"
-        },
-        {
-          "slug": "tackle",
-          "name": "Tackle",
-          "type": "normal",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "play-rough",
-          "name": "Play Rough",
-          "type": "fairy",
-          "category": "charged"
-        },
         {
           "slug": "brutal-swing",
           "name": "Brutal Swing",
@@ -2492,39 +1722,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "close-combat",
-          "name": "Close Combat",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "night-slash",
-          "name": "Night Slash",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-punch",
-          "name": "Ice Punch",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "low-sweep",
-          "name": "Low Sweep",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
           "slug": "rage-fist",
           "name": "Rage Fist",
           "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
           "category": "charged"
         }
       ]
@@ -2578,21 +1784,9 @@
           "name": "Incinerate",
           "type": "fire",
           "category": "fast"
-        },
-        {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "blast-burn",
-          "name": "Blast Burn",
-          "type": "fire",
-          "category": "charged"
-        },
         {
           "slug": "shadow-ball",
           "name": "Shadow Ball",
@@ -2600,21 +1794,15 @@
           "category": "charged"
         },
         {
-          "slug": "disarming-voice",
-          "name": "Disarming Voice",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "crunch",
-          "name": "Crunch",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
           "slug": "torch-song",
           "name": "Torch Song",
           "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "disarming-voice",
+          "name": "Disarming Voice",
+          "type": "fairy",
           "category": "charged"
         }
       ]
@@ -2630,18 +1818,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/spidops",
       "fastMoves": [
         {
-          "slug": "bug-bite",
-          "name": "Bug Bite",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
           "type": "ghost",
@@ -2650,8 +1826,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "x-scissor",
-          "name": "X-Scissor",
+          "slug": "lunge",
+          "name": "Lunge",
           "type": "bug",
           "category": "charged"
         },
@@ -2665,12 +1841,6 @@
           "slug": "grass-knot",
           "name": "Grass Knot",
           "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "lunge",
-          "name": "Lunge",
-          "type": "bug",
           "category": "charged"
         }
       ]
@@ -2687,18 +1857,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/dragalge",
       "fastMoves": [
         {
-          "slug": "dragon-tail",
-          "name": "Dragon Tail",
-          "type": "dragon",
-          "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "acid",
           "name": "Acid",
           "type": "poison",
@@ -2707,21 +1865,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "outrage",
-          "name": "Outrage",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
           "slug": "aqua-tail",
           "name": "Aqua Tail",
           "type": "water",
           "category": "charged"
         },
         {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
+          "slug": "outrage",
+          "name": "Outrage",
+          "type": "dragon",
           "category": "charged"
         }
       ]
@@ -2737,24 +1889,6 @@
       "rank": 10,
       "url": "https://pokebase.app/pokemon-go/pokemon/pangoro",
       "fastMoves": [
-        {
-          "slug": "snarl",
-          "name": "Snarl",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "low-kick",
-          "name": "Low Kick",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
-          "slug": "bullet-punch",
-          "name": "Bullet Punch",
-          "type": "steel",
-          "category": "fast"
-        },
         {
           "slug": "karate-chop",
           "name": "Karate Chop",
@@ -2773,18 +1907,6 @@
           "slug": "close-combat",
           "name": "Close Combat",
           "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "iron-head",
-          "name": "Iron Head",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "rock-slide",
-          "name": "Rock Slide",
-          "type": "rock",
           "category": "charged"
         }
       ]
@@ -2805,21 +1927,9 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "astonish",
-          "name": "Astonish",
-          "type": "ghost",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "earth-power",
-          "name": "Earth Power",
-          "type": "ground",
-          "category": "charged"
-        },
         {
           "slug": "shadow-punch",
           "name": "Shadow Punch",
@@ -2850,12 +1960,6 @@
           "name": "Water Shuriken",
           "type": "water",
           "category": "fast"
-        },
-        {
-          "slug": "bubble",
-          "name": "Bubble",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -2869,18 +1973,6 @@
           "slug": "night-slash",
           "name": "Night Slash",
           "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "surf",
-          "name": "Surf",
-          "type": "water",
           "category": "charged"
         }
       ]
@@ -2917,12 +2009,6 @@
           "category": "charged"
         },
         {
-          "slug": "power-gem",
-          "name": "Power Gem",
-          "type": "rock",
-          "category": "charged"
-        },
-        {
           "slug": "moonblast",
           "name": "Moonblast",
           "type": "fairy",
@@ -2949,33 +2035,27 @@
       ],
       "chargedMoves": [
         {
-          "slug": "draco-meteor",
-          "name": "Draco Meteor",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "muddy-water",
-          "name": "Muddy Water",
-          "type": "water",
-          "category": "charged"
-        },
-        {
           "slug": "aqua-tail",
           "name": "Aqua Tail",
           "type": "water",
           "category": "charged"
         },
         {
-          "slug": "thunder-punch",
-          "name": "Thunder Punch",
-          "type": "electric",
-          "category": "charged"
-        },
-        {
           "slug": "power-whip",
           "name": "Power Whip",
           "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "draco-meteor",
+          "name": "Draco Meteor",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "thunder-punch",
+          "name": "Thunder Punch",
+          "type": "electric",
           "category": "charged"
         }
       ]
@@ -2995,12 +2075,6 @@
           "slug": "smack-down",
           "name": "Smack Down",
           "type": "rock",
-          "category": "fast"
-        },
-        {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
           "category": "fast"
         }
       ],
@@ -3035,25 +2109,19 @@
           "name": "Powder Snow",
           "type": "ice",
           "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "weather-ball-ice",
-          "name": "Weather Ball Ice",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
           "slug": "energy-ball",
           "name": "Energy Ball",
           "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -3113,24 +2181,12 @@
           "name": "Sucker Punch",
           "type": "dark",
           "category": "fast"
-        },
-        {
-          "slug": "feint-attack",
-          "name": "Feint Attack",
-          "type": "dark",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
           "slug": "shadow-ball",
           "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "ominous-wind",
-          "name": "Ominous Wind",
           "type": "ghost",
           "category": "charged"
         },
@@ -3153,12 +2209,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/dusknoir",
       "fastMoves": [
         {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
-        },
-        {
           "slug": "astonish",
           "name": "Astonish",
           "type": "ghost",
@@ -3167,27 +2217,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
           "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
           "category": "charged"
         },
         {
           "slug": "dynamic-punch",
           "name": "Dynamic Punch",
           "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "shadow-punch",
-          "name": "Shadow Punch",
-          "type": "ghost",
           "category": "charged"
         }
       ]
@@ -3208,25 +2246,19 @@
           "name": "Powder Snow",
           "type": "ice",
           "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "weather-ball-ice",
-          "name": "Weather Ball Ice",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
           "slug": "energy-ball",
           "name": "Energy Ball",
           "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
           "category": "charged"
         }
       ]
@@ -3240,58 +2272,8 @@
       "tier": "A",
       "rank": 21,
       "url": "https://pokebase.app/pokemon-go/pokemon/registeel",
-      "fastMoves": [
-        {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
-          "slug": "lock-on",
-          "name": "Lock-On",
-          "type": "normal",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "flash-cannon",
-          "name": "Flash Cannon",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "focus-blast",
-          "name": "Focus Blast",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "hyper-beam",
-          "name": "Hyper Beam",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "zap-cannon",
-          "name": "Zap Cannon",
-          "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "return",
-          "name": "Return",
-          "type": "normal",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "shadow-whiscash",
@@ -3309,12 +2291,6 @@
           "name": "Mud Shot",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -3322,12 +2298,6 @@
           "slug": "mud-bomb",
           "name": "Mud Bomb",
           "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "water-pulse",
-          "name": "Water Pulse",
-          "type": "water",
           "category": "charged"
         },
         {
@@ -3353,21 +2323,9 @@
           "name": "Psywave",
           "type": "psychic",
           "category": "fast"
-        },
-        {
-          "slug": "extrasensory",
-          "name": "Extrasensory",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "shadow-ball",
           "name": "Shadow Ball",
@@ -3398,12 +2356,6 @@
           "name": "Mud Shot",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -3411,12 +2363,6 @@
           "slug": "mud-bomb",
           "name": "Mud Bomb",
           "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "water-pulse",
-          "name": "Water Pulse",
-          "type": "water",
           "category": "charged"
         },
         {
@@ -3443,12 +2389,6 @@
           "name": "Shadow Claw",
           "type": "ghost",
           "category": "fast"
-        },
-        {
-          "slug": "feint-attack",
-          "name": "Feint Attack",
-          "type": "dark",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -3459,15 +2399,15 @@
           "category": "charged"
         },
         {
-          "slug": "power-gem",
-          "name": "Power Gem",
-          "type": "rock",
-          "category": "charged"
-        },
-        {
           "slug": "dazzling-gleam",
           "name": "Dazzling Gleam",
           "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "power-gem",
+          "name": "Power Gem",
+          "type": "rock",
           "category": "charged"
         }
       ]
@@ -3487,25 +2427,19 @@
           "name": "Rollout",
           "type": "rock",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
           "slug": "body-slam",
           "name": "Body Slam",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -3541,12 +2475,6 @@
           "category": "charged"
         },
         {
-          "slug": "dig",
-          "name": "Dig",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "drill-run",
           "name": "Drill Run",
           "type": "ground",
@@ -3566,12 +2494,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/swampert",
       "fastMoves": [
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "mud-shot",
           "name": "Mud Shot",
           "type": "ground",
@@ -3582,18 +2504,6 @@
         {
           "slug": "hydro-cannon",
           "name": "Hydro Cannon",
-          "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "earthquake",
-          "name": "Earthquake",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "muddy-water",
-          "name": "Muddy Water",
           "type": "water",
           "category": "charged"
         },
@@ -3617,18 +2527,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-steelix",
       "fastMoves": [
         {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
-          "slug": "dragon-tail",
-          "name": "Dragon Tail",
-          "type": "dragon",
-          "category": "fast"
-        },
-        {
           "slug": "thunder-fang",
           "name": "Thunder Fang",
           "type": "electric",
@@ -3636,18 +2534,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "crunch",
-          "name": "Crunch",
-          "type": "dark",
-          "category": "charged"
-        },
         {
           "slug": "psychic-fangs",
           "name": "Psychic Fangs",
@@ -3658,6 +2544,12 @@
           "slug": "earthquake",
           "name": "Earthquake",
           "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
           "category": "charged"
         },
         {
@@ -3680,12 +2572,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/scizor",
       "fastMoves": [
         {
-          "slug": "fury-cutter",
-          "name": "Fury Cutter",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
           "slug": "bullet-punch",
           "name": "Bullet Punch",
           "type": "steel",
@@ -3693,18 +2579,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "x-scissor",
-          "name": "X-Scissor",
-          "type": "bug",
-          "category": "charged"
-        },
-        {
-          "slug": "iron-head",
-          "name": "Iron Head",
-          "type": "steel",
-          "category": "charged"
-        },
         {
           "slug": "night-slash",
           "name": "Night Slash",
@@ -3715,6 +2589,12 @@
           "slug": "trailblaze",
           "name": "Trailblaze",
           "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "x-scissor",
+          "name": "X-Scissor",
+          "type": "bug",
           "category": "charged"
         }
       ]
@@ -3731,12 +2611,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-swampert",
       "fastMoves": [
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "mud-shot",
           "name": "Mud Shot",
           "type": "ground",
@@ -3751,21 +2625,9 @@
           "category": "charged"
         },
         {
-          "slug": "earthquake",
-          "name": "Earthquake",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "sludge",
           "name": "Sludge",
           "type": "poison",
-          "category": "charged"
-        },
-        {
-          "slug": "muddy-water",
-          "name": "Muddy Water",
-          "type": "water",
           "category": "charged"
         }
       ]
@@ -3814,12 +2676,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/galarian-moltres",
       "fastMoves": [
         {
-          "slug": "wing-attack",
-          "name": "Wing Attack",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "sucker-punch",
           "name": "Sucker Punch",
           "type": "dark",
@@ -3828,20 +2684,14 @@
       ],
       "chargedMoves": [
         {
-          "slug": "fly",
-          "name": "Fly",
+          "slug": "brave-bird",
+          "name": "Brave Bird",
           "type": "flying",
           "category": "charged"
         },
         {
-          "slug": "payback",
-          "name": "Payback",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "brave-bird",
-          "name": "Brave Bird",
+          "slug": "fly",
+          "name": "Fly",
           "type": "flying",
           "category": "charged"
         }
@@ -3863,21 +2713,9 @@
           "name": "Fairy Wind",
           "type": "fairy",
           "category": "fast"
-        },
-        {
-          "slug": "tackle",
-          "name": "Tackle",
-          "type": "normal",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "play-rough",
-          "name": "Play Rough",
-          "type": "fairy",
-          "category": "charged"
-        },
         {
           "slug": "brutal-swing",
           "name": "Brutal Swing",
@@ -3907,18 +2745,12 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "earthquake",
-          "name": "Earthquake",
+          "slug": "bone-club",
+          "name": "Bone Club",
           "type": "ground",
           "category": "charged"
         },
@@ -3926,12 +2758,6 @@
           "slug": "rock-slide",
           "name": "Rock Slide",
           "type": "rock",
-          "category": "charged"
-        },
-        {
-          "slug": "bone-club",
-          "name": "Bone Club",
-          "type": "ground",
           "category": "charged"
         }
       ]
@@ -3946,12 +2772,6 @@
       "rank": 36,
       "url": "https://pokebase.app/pokemon-go/pokemon/blastoise",
       "fastMoves": [
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "rollout",
           "name": "Rollout",
@@ -3994,27 +2814,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "play-rough",
-          "name": "Play Rough",
-          "type": "fairy",
+          "slug": "swift",
+          "name": "Swift",
+          "type": "normal",
           "category": "charged"
         },
         {
           "slug": "icy-wind",
           "name": "Icy Wind",
           "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "swift",
-          "name": "Swift",
-          "type": "normal",
           "category": "charged"
         }
       ]
@@ -4030,24 +2838,6 @@
       "rank": 38,
       "url": "https://pokebase.app/pokemon-go/pokemon/charizard",
       "fastMoves": [
-        {
-          "slug": "fire-spin",
-          "name": "Fire Spin",
-          "type": "fire",
-          "category": "fast"
-        },
-        {
-          "slug": "wing-attack",
-          "name": "Wing Attack",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "air-slash",
-          "name": "Air Slash",
-          "type": "flying",
-          "category": "fast"
-        },
         {
           "slug": "ember",
           "name": "Ember",
@@ -4069,21 +2859,9 @@
           "category": "charged"
         },
         {
-          "slug": "overheat",
-          "name": "Overheat",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
           "slug": "air-cutter",
           "name": "Air Cutter",
           "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "dragon-claw",
-          "name": "Dragon Claw",
-          "type": "dragon",
           "category": "charged"
         }
       ]
@@ -4104,18 +2882,12 @@
           "name": "Peck",
           "type": "flying",
           "category": "fast"
-        },
-        {
-          "slug": "steel-wing",
-          "name": "Steel Wing",
-          "type": "steel",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "fly",
-          "name": "Fly",
+          "slug": "drill-peck",
+          "name": "Drill Peck",
           "type": "flying",
           "category": "charged"
         },
@@ -4123,18 +2895,6 @@
           "slug": "drill-run",
           "name": "Drill Run",
           "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "twister",
-          "name": "Twister",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "drill-peck",
-          "name": "Drill Peck",
-          "type": "flying",
           "category": "charged"
         }
       ]
@@ -4151,12 +2911,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-altaria",
       "fastMoves": [
         {
-          "slug": "peck",
-          "name": "Peck",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "dragon-breath",
           "name": "Dragon Breath",
           "type": "dragon",
@@ -4171,21 +2925,9 @@
           "category": "charged"
         },
         {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
           "slug": "flamethrower",
           "name": "Flamethrower",
           "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
           "category": "charged"
         }
       ]
@@ -4207,12 +2949,6 @@
           "category": "fast"
         },
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "sucker-punch",
           "name": "Sucker Punch",
           "type": "dark",
@@ -4220,18 +2956,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "discharge",
-          "name": "Discharge",
-          "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "sucker-punch",
-          "name": "Sucker Punch",
-          "type": "dark",
-          "category": "charged"
-        },
         {
           "slug": "zap-cannon",
           "name": "Zap Cannon",
@@ -4262,21 +2986,9 @@
           "name": "Sucker Punch",
           "type": "dark",
           "category": "fast"
-        },
-        {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dark-pulse",
-          "name": "Dark Pulse",
-          "type": "dark",
-          "category": "charged"
-        },
         {
           "slug": "x-scissor",
           "name": "X-Scissor",
@@ -4307,12 +3019,6 @@
           "name": "Dragon Tail",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "poison-jab",
-          "name": "Poison Jab",
-          "type": "poison",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -4320,18 +3026,6 @@
           "slug": "dragon-claw",
           "name": "Dragon Claw",
           "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "upper-hand",
-          "name": "Upper Hand",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "flamethrower",
-          "name": "Flamethrower",
-          "type": "fire",
           "category": "charged"
         },
         {
@@ -4357,21 +3051,15 @@
           "name": "Fairy Wind",
           "type": "fairy",
           "category": "fast"
-        },
-        {
-          "slug": "vine-whip",
-          "name": "Vine Whip",
-          "type": "grass",
-          "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
+        {
+          "slug": "chilling-water",
+          "name": "Chilling Water",
+          "type": "water",
+          "category": "charged"
+        },
         {
           "slug": "moonblast",
           "name": "Moonblast",
@@ -4379,33 +3067,9 @@
           "category": "charged"
         },
         {
-          "slug": "trailblaze",
-          "name": "Trailblaze",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "petal-blizzard",
-          "name": "Petal Blizzard",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
           "slug": "disarming-voice",
           "name": "Disarming Voice",
           "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
-          "slug": "chilling-water",
-          "name": "Chilling Water",
-          "type": "water",
           "category": "charged"
         }
       ]
@@ -4422,18 +3086,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/aurorus",
       "fastMoves": [
         {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "rock-throw",
-          "name": "Rock Throw",
-          "type": "rock",
-          "category": "fast"
-        },
-        {
           "slug": "powder-snow",
           "name": "Powder Snow",
           "type": "ice",
@@ -4448,21 +3100,9 @@
           "category": "charged"
         },
         {
-          "slug": "meteor-beam",
-          "name": "Meteor Beam",
-          "type": "rock",
-          "category": "charged"
-        },
-        {
           "slug": "thunderbolt",
           "name": "Thunderbolt",
           "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "ancient-power",
-          "name": "Ancient Power",
-          "type": "rock",
           "category": "charged"
         }
       ]
@@ -4479,31 +3119,13 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/malamar",
       "fastMoves": [
         {
-          "slug": "psycho-cut",
-          "name": "Psycho Cut",
-          "type": "psychic",
-          "category": "fast"
-        },
-        {
           "slug": "psywave",
           "name": "Psywave",
           "type": "psychic",
           "category": "fast"
-        },
-        {
-          "slug": "peck",
-          "name": "Peck",
-          "type": "flying",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "psybeam",
-          "name": "Psybeam",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "foul-play",
           "name": "Foul Play",
@@ -4534,21 +3156,9 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "astonish",
-          "name": "Astonish",
-          "type": "ghost",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "earth-power",
-          "name": "Earth Power",
-          "type": "ground",
-          "category": "charged"
-        },
         {
           "slug": "shadow-punch",
           "name": "Shadow Punch",
@@ -4585,21 +3195,9 @@
           "name": "Charm",
           "type": "fairy",
           "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "moonblast",
-          "name": "Moonblast",
-          "type": "fairy",
-          "category": "charged"
-        },
         {
           "slug": "grass-knot",
           "name": "Grass Knot",
@@ -4610,6 +3208,12 @@
           "slug": "seed-bomb",
           "name": "Seed Bomb",
           "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "moonblast",
+          "name": "Moonblast",
+          "type": "fairy",
           "category": "charged"
         },
         {
@@ -4635,12 +3239,6 @@
           "slug": "smack-down",
           "name": "Smack Down",
           "type": "rock",
-          "category": "fast"
-        },
-        {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
           "category": "fast"
         }
       ],
@@ -4671,12 +3269,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/gliscor",
       "fastMoves": [
         {
-          "slug": "wing-attack",
-          "name": "Wing Attack",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "sand-attack",
           "name": "Sand Attack",
           "type": "ground",
@@ -4685,9 +3277,9 @@
       ],
       "chargedMoves": [
         {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
           "category": "charged"
         },
         {
@@ -4697,9 +3289,9 @@
           "category": "charged"
         },
         {
-          "slug": "night-slash",
-          "name": "Night Slash",
-          "type": "dark",
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
           "category": "charged"
         }
       ]
@@ -4720,27 +3312,9 @@
           "name": "Dragon Breath",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "outrage",
-          "name": "Outrage",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
@@ -4766,18 +3340,6 @@
       "rank": 13,
       "url": "https://pokebase.app/pokemon-go/pokemon/walrein",
       "fastMoves": [
-        {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "powder-snow",
           "name": "Powder Snow",
@@ -4814,12 +3376,6 @@
           "slug": "lick",
           "name": "Lick",
           "type": "ghost",
-          "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
           "category": "fast"
         }
       ],
@@ -4870,12 +3426,6 @@
           "category": "charged"
         },
         {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
           "type": "fighting",
@@ -4899,27 +3449,9 @@
           "name": "Dragon Breath",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "outrage",
-          "name": "Outrage",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
@@ -4945,12 +3477,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/torkoal",
       "fastMoves": [
         {
-          "slug": "fire-spin",
-          "name": "Fire Spin",
-          "type": "fire",
-          "category": "fast"
-        },
-        {
           "slug": "ember",
           "name": "Ember",
           "type": "fire",
@@ -4958,18 +3484,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "overheat",
-          "name": "Overheat",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "solar-beam",
-          "name": "Solar Beam",
-          "type": "grass",
-          "category": "charged"
-        },
         {
           "slug": "flame-wheel",
           "name": "Flame Wheel",
@@ -4980,6 +3494,12 @@
           "slug": "earthquake",
           "name": "Earthquake",
           "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "solar-beam",
+          "name": "Solar Beam",
+          "type": "grass",
           "category": "charged"
         }
       ]
@@ -4996,8 +3516,8 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-walrein",
       "fastMoves": [
         {
-          "slug": "frost-breath",
-          "name": "Frost Breath",
+          "slug": "powder-snow",
+          "name": "Powder Snow",
           "type": "ice",
           "category": "fast"
         },
@@ -5006,12 +3526,6 @@
           "name": "Waterfall",
           "type": "water",
           "category": "fast"
-        },
-        {
-          "slug": "powder-snow",
-          "name": "Powder Snow",
-          "type": "ice",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -5019,12 +3533,6 @@
           "slug": "icicle-spear",
           "name": "Icicle Spear",
           "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "water-pulse",
-          "name": "Water Pulse",
-          "type": "water",
           "category": "charged"
         },
         {
@@ -5051,31 +3559,19 @@
           "name": "Bullet Seed",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "infestation",
-          "name": "Infestation",
-          "type": "bug",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "grass-knot",
-          "name": "Grass Knot",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "bulldoze",
-          "name": "Bulldoze",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
           "slug": "rock-tomb",
           "name": "Rock Tomb",
           "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
           "category": "charged"
         }
       ]
@@ -5092,18 +3588,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/ludicolo",
       "fastMoves": [
         {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
-        },
-        {
-          "slug": "bubble",
-          "name": "Bubble",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "astonish",
           "name": "Astonish",
           "type": "ghost",
@@ -5112,21 +3596,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "solar-beam",
-          "name": "Solar Beam",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
           "slug": "weather-ball-water",
           "name": "Weather Ball Water",
           "type": "water",
           "category": "charged"
         },
         {
-          "slug": "ice-beam",
-          "name": "Ice Beam",
-          "type": "ice",
+          "slug": "leaf-storm",
+          "name": "Leaf Storm",
+          "type": "grass",
           "category": "charged"
         },
         {
@@ -5136,9 +3614,9 @@
           "category": "charged"
         },
         {
-          "slug": "leaf-storm",
-          "name": "Leaf Storm",
-          "type": "grass",
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
           "category": "charged"
         }
       ]
@@ -5155,12 +3633,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/steelix",
       "fastMoves": [
         {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "dragon-tail",
           "name": "Dragon Tail",
           "type": "dragon",
@@ -5175,18 +3647,6 @@
       ],
       "chargedMoves": [
         {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "crunch",
-          "name": "Crunch",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
           "slug": "psychic-fangs",
           "name": "Psychic Fangs",
           "type": "psychic",
@@ -5196,6 +3656,12 @@
           "slug": "earthquake",
           "name": "Earthquake",
           "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
           "category": "charged"
         },
         {
@@ -5221,21 +3687,9 @@
           "name": "Mud Slap",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "charm",
-          "name": "Charm",
-          "type": "fairy",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "earthquake",
-          "name": "Earthquake",
-          "type": "ground",
-          "category": "charged"
-        },
         {
           "slug": "body-slam",
           "name": "Body Slam",
@@ -5281,12 +3735,6 @@
           "category": "charged"
         },
         {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
           "slug": "dark-pulse",
           "name": "Dark Pulse",
           "type": "dark",
@@ -5296,6 +3744,12 @@
           "slug": "last-resort",
           "name": "Last Resort",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "psychic",
+          "name": "Psychic",
+          "type": "psychic",
           "category": "charged"
         }
       ]
@@ -5312,21 +3766,15 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/lanturn",
       "fastMoves": [
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "spark",
           "name": "Spark",
           "type": "electric",
           "category": "fast"
         },
         {
-          "slug": "charge-beam",
-          "name": "Charge Beam",
-          "type": "electric",
+          "slug": "water-gun",
+          "name": "Water Gun",
+          "type": "water",
           "category": "fast"
         }
       ],
@@ -5357,12 +3805,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/ariados",
       "fastMoves": [
         {
-          "slug": "infestation",
-          "name": "Infestation",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
           "slug": "poison-sting",
           "name": "Poison Sting",
           "type": "poison",
@@ -5370,18 +3812,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "megahorn",
-          "name": "Megahorn",
-          "type": "bug",
-          "category": "charged"
-        },
-        {
-          "slug": "cross-poison",
-          "name": "Cross Poison",
-          "type": "poison",
-          "category": "charged"
-        },
         {
           "slug": "lunge",
           "name": "Lunge",
@@ -5414,12 +3844,6 @@
           "category": "fast"
         },
         {
-          "slug": "steel-wing",
-          "name": "Steel Wing",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "dragon-breath",
           "name": "Dragon Breath",
           "type": "dragon",
@@ -5428,33 +3852,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "outrage",
-          "name": "Outrage",
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
           "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "draco-meteor",
-          "name": "Draco Meteor",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "thunder-punch",
-          "name": "Thunder Punch",
-          "type": "electric",
           "category": "charged"
         },
         {
           "slug": "superpower",
           "name": "Superpower",
           "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "dragon-claw",
-          "name": "Dragon Claw",
-          "type": "dragon",
           "category": "charged"
         },
         {
@@ -5477,43 +3883,13 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/alolan-marowak",
       "fastMoves": [
         {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
-        },
-        {
           "slug": "fire-spin",
           "name": "Fire Spin",
           "type": "fire",
           "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "fire-blast",
-          "name": "Fire Blast",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "flame-wheel",
-          "name": "Flame Wheel",
-          "type": "fire",
-          "category": "charged"
-        },
         {
           "slug": "bone-club",
           "name": "Bone Club",
@@ -5540,43 +3916,13 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-alolan-marowak",
       "fastMoves": [
         {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
-        },
-        {
           "slug": "fire-spin",
           "name": "Fire Spin",
           "type": "fire",
           "category": "fast"
-        },
-        {
-          "slug": "rock-smash",
-          "name": "Rock Smash",
-          "type": "fighting",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "fire-blast",
-          "name": "Fire Blast",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
-          "slug": "flame-wheel",
-          "name": "Flame Wheel",
-          "type": "fire",
-          "category": "charged"
-        },
         {
           "slug": "bone-club",
           "name": "Bone Club",
@@ -5607,33 +3953,9 @@
           "name": "Counter",
           "type": "fighting",
           "category": "fast"
-        },
-        {
-          "slug": "bubble",
-          "name": "Bubble",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dynamic-punch",
-          "name": "Dynamic Punch",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "hydro-pump",
-          "name": "Hydro Pump",
-          "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "ice-punch",
-          "name": "Ice Punch",
-          "type": "ice",
-          "category": "charged"
-        },
         {
           "slug": "icy-wind",
           "name": "Icy Wind",
@@ -5644,6 +3966,12 @@
           "slug": "power-up-punch",
           "name": "Power-Up Punch",
           "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
           "category": "charged"
         },
         {
@@ -5665,18 +3993,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/machamp",
       "fastMoves": [
         {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
-          "slug": "bullet-punch",
-          "name": "Bullet Punch",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "karate-chop",
           "name": "Karate Chop",
           "type": "fighting",
@@ -5684,18 +4000,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dynamic-punch",
-          "name": "Dynamic Punch",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
         {
           "slug": "cross-chop",
           "name": "Cross Chop",
@@ -5727,18 +4031,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-machamp",
       "fastMoves": [
         {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
-          "slug": "bullet-punch",
-          "name": "Bullet Punch",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "karate-chop",
           "name": "Karate Chop",
           "type": "fighting",
@@ -5746,12 +4038,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dynamic-punch",
-          "name": "Dynamic Punch",
-          "type": "fighting",
-          "category": "charged"
-        },
         {
           "slug": "cross-chop",
           "name": "Cross Chop",
@@ -5781,76 +4067,8 @@
       "tier": "B+",
       "rank": 32,
       "url": "https://pokebase.app/pokemon-go/pokemon/clefable",
-      "fastMoves": [
-        {
-          "slug": "charge-beam",
-          "name": "Charge Beam",
-          "type": "electric",
-          "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
-        },
-        {
-          "slug": "charm",
-          "name": "Charm",
-          "type": "fairy",
-          "category": "fast"
-        },
-        {
-          "slug": "fairy-wind",
-          "name": "Fairy Wind",
-          "type": "fairy",
-          "category": "fast"
-        },
-        {
-          "slug": "pound",
-          "name": "Pound",
-          "type": "normal",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "moonblast",
-          "name": "Moonblast",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
-        {
-          "slug": "meteor-mash",
-          "name": "Meteor Mash",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "draining-kiss",
-          "name": "Draining Kiss",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
-          "slug": "swift",
-          "name": "Swift",
-          "type": "normal",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "venusaur",
@@ -5868,12 +4086,6 @@
           "name": "Vine Whip",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -5881,12 +4093,6 @@
           "slug": "frenzy-plant",
           "name": "Frenzy Plant",
           "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "sludge",
-          "name": "Sludge",
-          "type": "poison",
           "category": "charged"
         },
         {
@@ -5913,12 +4119,6 @@
           "name": "Vine Whip",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -5926,12 +4126,6 @@
           "slug": "frenzy-plant",
           "name": "Frenzy Plant",
           "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "sludge",
-          "name": "Sludge",
-          "type": "poison",
           "category": "charged"
         },
         {
@@ -5954,18 +4148,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/kingambit",
       "fastMoves": [
         {
-          "slug": "snarl",
-          "name": "Snarl",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "metal-sound",
           "name": "Metal Sound",
           "type": "steel",
@@ -5974,8 +4156,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "dark-pulse",
-          "name": "Dark Pulse",
+          "slug": "foul-play",
+          "name": "Foul Play",
           "type": "dark",
           "category": "charged"
         },
@@ -5983,24 +4165,6 @@
           "slug": "iron-head",
           "name": "Iron Head",
           "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "x-scissor",
-          "name": "X-Scissor",
-          "type": "bug",
-          "category": "charged"
-        },
-        {
-          "slug": "foul-play",
-          "name": "Foul Play",
-          "type": "dark",
           "category": "charged"
         },
         {
@@ -6021,46 +4185,8 @@
       "tier": "B",
       "rank": 2,
       "url": "https://pokebase.app/pokemon-go/pokemon/bombirdier",
-      "fastMoves": [
-        {
-          "slug": "wing-attack",
-          "name": "Wing Attack",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "sucker-punch",
-          "name": "Sucker Punch",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "rock-throw",
-          "name": "Rock Throw",
-          "type": "rock",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "fly",
-          "name": "Fly",
-          "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "payback",
-          "name": "Payback",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "hakamo-o",
@@ -6106,12 +4232,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/cresselia",
       "fastMoves": [
         {
-          "slug": "confusion",
-          "name": "Confusion",
-          "type": "psychic",
-          "category": "fast"
-        },
-        {
           "slug": "psycho-cut",
           "name": "Psycho Cut",
           "type": "psychic",
@@ -6119,12 +4239,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "future-sight",
-          "name": "Future Sight",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "grass-knot",
           "name": "Grass Knot",
@@ -6135,6 +4249,12 @@
           "slug": "moonblast",
           "name": "Moonblast",
           "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "future-sight",
+          "name": "Future Sight",
+          "type": "psychic",
           "category": "charged"
         }
       ]
@@ -6158,12 +4278,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "shadow-force",
-          "name": "Shadow Force",
-          "type": "ghost",
-          "category": "charged"
-        },
         {
           "slug": "shadow-ball",
           "name": "Shadow Ball",
@@ -6190,12 +4304,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/galvantula",
       "fastMoves": [
         {
-          "slug": "fury-cutter",
-          "name": "Fury Cutter",
-          "type": "bug",
-          "category": "fast"
-        },
-        {
           "slug": "volt-switch",
           "name": "Volt Switch",
           "type": "electric",
@@ -6204,27 +4312,9 @@
       ],
       "chargedMoves": [
         {
-          "slug": "bug-buzz",
-          "name": "Bug Buzz",
-          "type": "bug",
-          "category": "charged"
-        },
-        {
           "slug": "discharge",
           "name": "Discharge",
           "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "cross-poison",
-          "name": "Cross Poison",
-          "type": "poison",
-          "category": "charged"
-        },
-        {
-          "slug": "dragon-energy",
-          "name": "Dragon Energy",
-          "type": "dragon",
           "category": "charged"
         },
         {
@@ -6250,12 +4340,6 @@
           "name": "Vine Whip",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -6266,15 +4350,15 @@
           "category": "charged"
         },
         {
-          "slug": "leaf-tornado",
-          "name": "Leaf Tornado",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
           "slug": "aerial-ace",
           "name": "Aerial Ace",
           "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "leaf-tornado",
+          "name": "Leaf Tornado",
+          "type": "grass",
           "category": "charged"
         }
       ]
@@ -6294,43 +4378,19 @@
           "name": "Sand Attack",
           "type": "ground",
           "category": "fast"
-        },
-        {
-          "slug": "fire-fang",
-          "name": "Fire Fang",
-          "type": "fire",
-          "category": "fast"
-        },
-        {
-          "slug": "ice-fang",
-          "name": "Ice Fang",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "thunder-fang",
-          "name": "Thunder Fang",
-          "type": "electric",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "scorching-sands",
-          "name": "Scorching Sands",
-          "type": "ground",
-          "category": "charged"
-        },
-        {
-          "slug": "body-slam",
-          "name": "Body Slam",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
           "slug": "weather-ball-rock",
           "name": "Weather Ball Rock",
           "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "scorching-sands",
+          "name": "Scorching Sands",
+          "type": "ground",
           "category": "charged"
         }
       ]
@@ -6345,52 +4405,8 @@
       "tier": "B",
       "rank": 9,
       "url": "https://pokebase.app/pokemon-go/pokemon/froslass",
-      "fastMoves": [
-        {
-          "slug": "powder-snow",
-          "name": "Powder Snow",
-          "type": "ice",
-          "category": "fast"
-        },
-        {
-          "slug": "hex",
-          "name": "Hex",
-          "type": "ghost",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "avalanche",
-          "name": "Avalanche",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "crunch",
-          "name": "Crunch",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "triple-axel",
-          "name": "Triple Axel",
-          "type": "ice",
-          "category": "charged"
-        },
-        {
-          "slug": "return",
-          "name": "Return",
-          "type": "normal",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "drifblim",
@@ -6443,18 +4459,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-magnezone",
       "fastMoves": [
         {
-          "slug": "spark",
-          "name": "Spark",
-          "type": "electric",
-          "category": "fast"
-        },
-        {
-          "slug": "metal-sound",
-          "name": "Metal Sound",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "volt-switch",
           "name": "Volt Switch",
           "type": "electric",
@@ -6466,12 +4470,6 @@
           "slug": "wild-charge",
           "name": "Wild Charge",
           "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "flash-cannon",
-          "name": "Flash Cannon",
-          "type": "steel",
           "category": "charged"
         },
         {
@@ -6494,12 +4492,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/bronzong",
       "fastMoves": [
         {
-          "slug": "metal-sound",
-          "name": "Metal Sound",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "confusion",
           "name": "Confusion",
           "type": "psychic",
@@ -6508,14 +4500,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "heavy-slam",
-          "name": "Heavy Slam",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
+          "slug": "psyshock",
+          "name": "Psyshock",
           "type": "psychic",
           "category": "charged"
         },
@@ -6523,12 +4509,6 @@
           "slug": "weather-ball-water",
           "name": "Weather Ball Water",
           "type": "water",
-          "category": "charged"
-        },
-        {
-          "slug": "psyshock",
-          "name": "Psyshock",
-          "type": "psychic",
           "category": "charged"
         },
         {
@@ -6595,12 +4575,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/regirock",
       "fastMoves": [
         {
-          "slug": "rock-throw",
-          "name": "Rock Throw",
-          "type": "rock",
-          "category": "fast"
-        },
-        {
           "slug": "lock-on",
           "name": "Lock-On",
           "type": "normal",
@@ -6644,27 +4618,9 @@
           "name": "Dragon Breath",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dragon-claw",
-          "name": "Dragon Claw",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
@@ -6695,27 +4651,9 @@
           "name": "Dragon Breath",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "dragon-claw",
-          "name": "Dragon Claw",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "aura-sphere",
           "name": "Aura Sphere",
@@ -6742,12 +4680,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/tropius",
       "fastMoves": [
         {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
-        },
-        {
           "slug": "air-slash",
           "name": "Air Slash",
           "type": "flying",
@@ -6759,12 +4691,6 @@
           "slug": "leaf-blade",
           "name": "Leaf Blade",
           "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "aerial-ace",
-          "name": "Aerial Ace",
-          "type": "flying",
           "category": "charged"
         },
         {
@@ -6787,12 +4713,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/medicham",
       "fastMoves": [
         {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
           "slug": "psycho-cut",
           "name": "Psycho Cut",
           "type": "psychic",
@@ -6801,15 +4721,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "dynamic-punch",
-          "name": "Dynamic Punch",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
           "slug": "ice-punch",
           "name": "Ice Punch",
           "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
           "category": "charged"
         }
       ]
@@ -6825,12 +4745,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-ursaring",
       "fastMoves": [
         {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
           "slug": "shadow-claw",
           "name": "Shadow Claw",
           "type": "ghost",
@@ -6839,21 +4753,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "close-combat",
-          "name": "Close Combat",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "play-rough",
-          "name": "Play Rough",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
           "slug": "swift",
           "name": "Swift",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
           "category": "charged"
         }
       ]
@@ -6869,12 +4777,6 @@
       "rank": 20,
       "url": "https://pokebase.app/pokemon-go/pokemon/qwilfish",
       "fastMoves": [
-        {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
         {
           "slug": "poison-sting",
           "name": "Poison Sting",
@@ -6912,31 +4814,19 @@
           "name": "Dragon Breath",
           "type": "dragon",
           "category": "fast"
-        },
-        {
-          "slug": "iron-tail",
-          "name": "Iron Tail",
-          "type": "steel",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
           "category": "charged"
         },
         {
           "slug": "body-slam",
           "name": "Body Slam",
           "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "aqua-tail",
-          "name": "Aqua Tail",
-          "type": "water",
           "category": "charged"
         }
       ]
@@ -7000,12 +4890,6 @@
       ],
       "chargedMoves": [
         {
-          "slug": "dazzling-gleam",
-          "name": "Dazzling Gleam",
-          "type": "fairy",
-          "category": "charged"
-        },
-        {
           "slug": "weather-ball-ice",
           "name": "Weather Ball Ice",
           "type": "ice",
@@ -7039,21 +4923,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
           "slug": "seed-bomb",
           "name": "Seed Bomb",
           "type": "grass",
           "category": "charged"
         },
         {
-          "slug": "foul-play",
-          "name": "Foul Play",
-          "type": "dark",
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
           "category": "charged"
         }
       ]
@@ -7068,40 +4946,8 @@
       "tier": "C",
       "rank": 2,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-zweilous",
-      "fastMoves": [
-        {
-          "slug": "bite",
-          "name": "Bite",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
-          "slug": "dragon-breath",
-          "name": "Dragon Breath",
-          "type": "dragon",
-          "category": "fast"
-        }
-      ],
-      "chargedMoves": [
-        {
-          "slug": "dragon-pulse",
-          "name": "Dragon Pulse",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
-          "slug": "dark-pulse",
-          "name": "Dark Pulse",
-          "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "body-slam",
-          "name": "Body Slam",
-          "type": "normal",
-          "category": "charged"
-        }
-      ]
+      "fastMoves": [],
+      "chargedMoves": []
     },
     {
       "slug": "shadow-palkia",
@@ -7115,12 +4961,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-palkia",
       "fastMoves": [
         {
-          "slug": "dragon-tail",
-          "name": "Dragon Tail",
-          "type": "dragon",
-          "category": "fast"
-        },
-        {
           "slug": "dragon-breath",
           "name": "Dragon Breath",
           "type": "dragon",
@@ -7129,15 +4969,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "draco-meteor",
-          "name": "Draco Meteor",
-          "type": "dragon",
-          "category": "charged"
-        },
-        {
           "slug": "aqua-tail",
           "name": "Aqua Tail",
           "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "draco-meteor",
+          "name": "Draco Meteor",
+          "type": "dragon",
           "category": "charged"
         },
         {
@@ -7164,12 +5004,6 @@
           "name": "Shadow Claw",
           "type": "ghost",
           "category": "fast"
-        },
-        {
-          "slug": "astonish",
-          "name": "Astonish",
-          "type": "ghost",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -7183,12 +5017,6 @@
           "slug": "brutal-swing",
           "name": "Brutal Swing",
           "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "rock-tomb",
-          "name": "Rock Tomb",
-          "type": "rock",
           "category": "charged"
         },
         {
@@ -7218,8 +5046,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "flash-cannon",
-          "name": "Flash Cannon",
+          "slug": "double-iron-bash",
+          "name": "Double Iron Bash",
           "type": "steel",
           "category": "charged"
         },
@@ -7227,30 +5055,6 @@
           "slug": "thunderbolt",
           "name": "Thunderbolt",
           "type": "electric",
-          "category": "charged"
-        },
-        {
-          "slug": "hyper-beam",
-          "name": "Hyper Beam",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "rock-slide",
-          "name": "Rock Slide",
-          "type": "rock",
-          "category": "charged"
-        },
-        {
-          "slug": "superpower",
-          "name": "Superpower",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "double-iron-bash",
-          "name": "Double Iron Bash",
-          "type": "steel",
           "category": "charged"
         }
       ]
@@ -7269,12 +5073,6 @@
         {
           "slug": "thunder-shock",
           "name": "Thunder Shock",
-          "type": "electric",
-          "category": "fast"
-        },
-        {
-          "slug": "spark",
-          "name": "Spark",
           "type": "electric",
           "category": "fast"
         }
@@ -7311,12 +5109,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/dubwool",
       "fastMoves": [
         {
-          "slug": "tackle",
-          "name": "Tackle",
-          "type": "normal",
-          "category": "fast"
-        },
-        {
           "slug": "double-kick",
           "name": "Double Kick",
           "type": "fighting",
@@ -7325,15 +5117,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "wild-charge",
-          "name": "Wild Charge",
-          "type": "electric",
-          "category": "charged"
-        },
-        {
           "slug": "body-slam",
           "name": "Body Slam",
           "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "wild-charge",
+          "name": "Wild Charge",
+          "type": "electric",
           "category": "charged"
         }
       ]
@@ -7354,27 +5146,9 @@
           "name": "Leafage",
           "type": "grass",
           "category": "fast"
-        },
-        {
-          "slug": "charm",
-          "name": "Charm",
-          "type": "fairy",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "frenzy-plant",
-          "name": "Frenzy Plant",
-          "type": "grass",
-          "category": "charged"
-        },
-        {
-          "slug": "play-rough",
-          "name": "Play Rough",
-          "type": "fairy",
-          "category": "charged"
-        },
         {
           "slug": "night-slash",
           "name": "Night Slash",
@@ -7382,8 +5156,8 @@
           "category": "charged"
         },
         {
-          "slug": "flower-trick",
-          "name": "Flower Trick",
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
           "type": "grass",
           "category": "charged"
         }
@@ -7399,12 +5173,6 @@
       "rank": 9,
       "url": "https://pokebase.app/pokemon-go/pokemon/lurantis",
       "fastMoves": [
-        {
-          "slug": "razor-leaf",
-          "name": "Razor Leaf",
-          "type": "grass",
-          "category": "fast"
-        },
         {
           "slug": "leafage",
           "name": "Leafage",
@@ -7429,12 +5197,6 @@
           "slug": "superpower",
           "name": "Superpower",
           "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "x-scissor",
-          "name": "X-Scissor",
-          "type": "bug",
           "category": "charged"
         }
       ]
@@ -7483,12 +5245,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/urshifu---single-strike-style",
       "fastMoves": [
         {
-          "slug": "counter",
-          "name": "Counter",
-          "type": "fighting",
-          "category": "fast"
-        },
-        {
           "slug": "sucker-punch",
           "name": "Sucker Punch",
           "type": "dark",
@@ -7526,12 +5282,6 @@
           "name": "Counter",
           "type": "fighting",
           "category": "fast"
-        },
-        {
-          "slug": "waterfall",
-          "name": "Waterfall",
-          "type": "water",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -7561,18 +5311,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/talonflame",
       "fastMoves": [
         {
-          "slug": "peck",
-          "name": "Peck",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
-          "slug": "fire-spin",
-          "name": "Fire Spin",
-          "type": "fire",
-          "category": "fast"
-        },
-        {
           "slug": "incinerate",
           "name": "Incinerate",
           "type": "fire",
@@ -7580,12 +5318,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "fly",
-          "name": "Fly",
-          "type": "flying",
-          "category": "charged"
-        },
         {
           "slug": "flame-charge",
           "name": "Flame Charge",
@@ -7595,6 +5327,12 @@
         {
           "slug": "brave-bird",
           "name": "Brave Bird",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "fly",
+          "name": "Fly",
           "type": "flying",
           "category": "charged"
         }
@@ -7620,21 +5358,15 @@
       ],
       "chargedMoves": [
         {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
           "slug": "seed-bomb",
           "name": "Seed Bomb",
           "type": "grass",
           "category": "charged"
         },
         {
-          "slug": "foul-play",
-          "name": "Foul Play",
-          "type": "dark",
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
           "category": "charged"
         }
       ]
@@ -7651,12 +5383,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/galarian-stunfisk",
       "fastMoves": [
         {
-          "slug": "metal-claw",
-          "name": "Metal Claw",
-          "type": "steel",
-          "category": "fast"
-        },
-        {
           "slug": "mud-shot",
           "name": "Mud Shot",
           "type": "ground",
@@ -7664,18 +5390,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "flash-cannon",
-          "name": "Flash Cannon",
-          "type": "steel",
-          "category": "charged"
-        },
-        {
-          "slug": "muddy-water",
-          "name": "Muddy Water",
-          "type": "water",
-          "category": "charged"
-        },
         {
           "slug": "rock-slide",
           "name": "Rock Slide",
@@ -7738,12 +5452,6 @@
           "name": "Shadow Claw",
           "type": "ghost",
           "category": "fast"
-        },
-        {
-          "slug": "zen-headbutt",
-          "name": "Zen Headbutt",
-          "type": "psychic",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
@@ -7751,12 +5459,6 @@
           "slug": "shadow-ball",
           "name": "Shadow Ball",
           "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
           "category": "charged"
         },
         {
@@ -7779,12 +5481,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/scrafty",
       "fastMoves": [
         {
-          "slug": "snarl",
-          "name": "Snarl",
-          "type": "dark",
-          "category": "fast"
-        },
-        {
           "slug": "counter",
           "name": "Counter",
           "type": "fighting",
@@ -7796,18 +5492,6 @@
           "slug": "foul-play",
           "name": "Foul Play",
           "type": "dark",
-          "category": "charged"
-        },
-        {
-          "slug": "power-up-punch",
-          "name": "Power-Up Punch",
-          "type": "fighting",
-          "category": "charged"
-        },
-        {
-          "slug": "thunder-punch",
-          "name": "Thunder Punch",
-          "type": "electric",
           "category": "charged"
         },
         {
@@ -7834,37 +5518,19 @@
           "name": "Shadow Claw",
           "type": "ghost",
           "category": "fast"
-        },
-        {
-          "slug": "snarl",
-          "name": "Snarl",
-          "type": "dark",
-          "category": "fast"
         }
       ],
       "chargedMoves": [
         {
-          "slug": "shadow-ball",
-          "name": "Shadow Ball",
-          "type": "ghost",
-          "category": "charged"
-        },
-        {
-          "slug": "sludge-bomb",
-          "name": "Sludge Bomb",
-          "type": "poison",
-          "category": "charged"
-        },
-        {
-          "slug": "flamethrower",
-          "name": "Flamethrower",
-          "type": "fire",
-          "category": "charged"
-        },
-        {
           "slug": "foul-play",
           "name": "Foul Play",
           "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
           "category": "charged"
         }
       ]
@@ -7888,12 +5554,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "solar-beam",
-          "name": "Solar Beam",
-          "type": "grass",
-          "category": "charged"
-        },
         {
           "slug": "upper-hand",
           "name": "Upper Hand",
@@ -7920,18 +5580,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/gallade",
       "fastMoves": [
         {
-          "slug": "confusion",
-          "name": "Confusion",
-          "type": "psychic",
-          "category": "fast"
-        },
-        {
-          "slug": "charm",
-          "name": "Charm",
-          "type": "fairy",
-          "category": "fast"
-        },
-        {
           "slug": "psycho-cut",
           "name": "Psycho Cut",
           "type": "psychic",
@@ -7939,12 +5587,6 @@
         }
       ],
       "chargedMoves": [
-        {
-          "slug": "psychic",
-          "name": "Psychic",
-          "type": "psychic",
-          "category": "charged"
-        },
         {
           "slug": "leaf-blade",
           "name": "Leaf Blade",
@@ -7969,12 +5611,6 @@
       "rank": 22,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-regirock",
       "fastMoves": [
-        {
-          "slug": "rock-throw",
-          "name": "Rock Throw",
-          "type": "rock",
-          "category": "fast"
-        },
         {
           "slug": "lock-on",
           "name": "Lock-On",
@@ -8009,15 +5645,15 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/pelipper",
       "fastMoves": [
         {
-          "slug": "water-gun",
-          "name": "Water Gun",
-          "type": "water",
-          "category": "fast"
-        },
-        {
           "slug": "wing-attack",
           "name": "Wing Attack",
           "type": "flying",
+          "category": "fast"
+        },
+        {
+          "slug": "water-gun",
+          "name": "Water Gun",
+          "type": "water",
           "category": "fast"
         }
       ],
@@ -8054,12 +5690,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/skarmory",
       "fastMoves": [
         {
-          "slug": "air-slash",
-          "name": "Air Slash",
-          "type": "flying",
-          "category": "fast"
-        },
-        {
           "slug": "steel-wing",
           "name": "Steel Wing",
           "type": "steel",
@@ -8071,12 +5701,6 @@
           "slug": "sky-attack",
           "name": "Sky Attack",
           "type": "flying",
-          "category": "charged"
-        },
-        {
-          "slug": "flash-cannon",
-          "name": "Flash Cannon",
-          "type": "steel",
           "category": "charged"
         },
         {
@@ -8097,12 +5721,6 @@
       "rank": 25,
       "url": "https://pokebase.app/pokemon-go/pokemon/meganium",
       "fastMoves": [
-        {
-          "slug": "magical-leaf",
-          "name": "Magical Leaf",
-          "type": "grass",
-          "category": "fast"
-        },
         {
           "slug": "vine-whip",
           "name": "Vine Whip",
@@ -8136,12 +5754,6 @@
       "url": "https://pokebase.app/pokemon-go/pokemon/lickitung",
       "fastMoves": [
         {
-          "slug": "lick",
-          "name": "Lick",
-          "type": "ghost",
-          "category": "fast"
-        },
-        {
           "slug": "zen-headbutt",
           "name": "Zen Headbutt",
           "type": "psychic",
@@ -8150,26 +5762,8 @@
       ],
       "chargedMoves": [
         {
-          "slug": "hyper-beam",
-          "name": "Hyper Beam",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "stomp",
-          "name": "Stomp",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
           "slug": "wrap",
           "name": "Wrap",
-          "type": "normal",
-          "category": "charged"
-        },
-        {
-          "slug": "body-slam",
-          "name": "Body Slam",
           "type": "normal",
           "category": "charged"
         },
@@ -8196,12 +5790,6 @@
           "slug": "magical-leaf",
           "name": "Magical Leaf",
           "type": "grass",
-          "category": "fast"
-        },
-        {
-          "slug": "acid",
-          "name": "Acid",
-          "type": "poison",
           "category": "fast"
         }
       ],
