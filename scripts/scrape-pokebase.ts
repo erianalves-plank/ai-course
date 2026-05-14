@@ -145,22 +145,18 @@ function parseDetailMoves(html: string): {
   const chargedMoves: Move[] = [];
   const seen = new Set<string>();
 
-  const heading = $("h2").filter((_, el) => $(el).text().trim() === "Best Movesets");
-  if (heading.length > 0) {
-    const $heading = heading.first();
-    const $container = $heading.closest("section").length
-      ? $heading.closest("section")
-      : $heading.parent().parent();
-    collectFromRows($, $container, fastMoves, chargedMoves, seen);
+  // The detail page can contain separate "Best Movesets" blocks for PvE and
+  // PvP — each is preceded by its own label badge ("PvE" / "PvP"). We only
+  // care about the PvP block; if it isn't present (some Pokémon are PvE-only
+  // on Pokébase), the movesets are left empty per the data contract.
+  const pvpLabel = $("div.font-logo").filter(
+    (_, el) => $(el).text().trim() === "PvP",
+  );
+  if (pvpLabel.length === 0) {
+    return { fastMoves, chargedMoves };
   }
-
-  // Older Pokémon pages use a `<h2>Fast</h2>` / `<h2>Charge</h2>` layout
-  // instead of "Best Movesets". Fall back to it when the primary parser
-  // came up empty — these pages list all available moves, which is the
-  // best signal we have for those Pokémon.
-  if (fastMoves.length === 0 && chargedMoves.length === 0) {
-    collectFromLegacyHeadings($, fastMoves, chargedMoves, seen);
-  }
+  const $pvpBlock = pvpLabel.first().parent();
+  collectFromRows($, $pvpBlock, fastMoves, chargedMoves, seen);
 
   return { fastMoves, chargedMoves };
 }
@@ -196,42 +192,6 @@ function collectFromRows(
       target.push({ slug, name, type, category });
     });
   });
-}
-
-function collectFromLegacyHeadings(
-  $: cheerio.CheerioAPI,
-  fastMoves: Move[],
-  chargedMoves: Move[],
-  seen: Set<string>,
-) {
-  const harvest = (headingText: string, category: MoveCategory) => {
-    const heading = $("h2").filter(
-      (_, el) => $(el).text().trim() === headingText,
-    );
-    if (heading.length === 0) return;
-    const $list = heading.first().next();
-    $list.find('a[href^="/pokemon-go/moves/"]').each((_, a) => {
-      const $a = $(a);
-      const m = $a.attr("href")?.match(/^\/pokemon-go\/moves\/([a-z0-9-]+)$/);
-      if (!m) return;
-      const slug = m[1];
-      const $icon = $a.find('img[src*="Pokemon_Type_Icon_"]').first();
-      const type = typeFromIconSrc($icon.attr("src"));
-      if (!type) return;
-      const name = ($icon.attr("alt") ?? titleCase(slug)).trim();
-      const dedupKey = `${slug}:${category}`;
-      if (seen.has(dedupKey)) return;
-      seen.add(dedupKey);
-      (category === "fast" ? fastMoves : chargedMoves).push({
-        slug,
-        name,
-        type,
-        category,
-      });
-    });
-  };
-  harvest("Fast", "fast");
-  harvest("Charge", "charged");
 }
 
 async function main() {
