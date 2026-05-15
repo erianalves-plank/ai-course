@@ -1,0 +1,5844 @@
+{
+  "scrapedAt": "2026-05-14T20:51:08.208Z",
+  "source": "https://pokebase.app/pokemon-go/tier-lists/great-league-tier-list",
+  "league": "great",
+  "pokemon": [
+    {
+      "slug": "clodsire-",
+      "name": "Clodsire",
+      "types": [
+        "ground",
+        "poison"
+      ],
+      "tier": "S",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/clodsire-",
+      "fastMoves": [
+        {
+          "slug": "poison-sting",
+          "name": "Poison Sting",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
+          "category": "charged"
+        },
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "tinkaton",
+      "name": "Tinkaton",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "tier": "S",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/tinkaton",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "play-rough",
+          "name": "Play Rough",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "bulldoze",
+          "name": "Bulldoze",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "heavy-slam",
+          "name": "Heavy Slam",
+          "type": "steel",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "mandibuzz",
+      "name": "Mandibuzz",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "tier": "S",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/mandibuzz",
+      "fastMoves": [
+        {
+          "slug": "snarl",
+          "name": "Snarl",
+          "type": "dark",
+          "category": "fast"
+        },
+        {
+          "slug": "air-slash",
+          "name": "Air Slash",
+          "type": "flying",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "dark-pulse",
+          "name": "Dark Pulse",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-drapion",
+      "name": "Shadow Drapion",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "tier": "S",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-drapion",
+      "fastMoves": [
+        {
+          "slug": "poison-sting",
+          "name": "Poison Sting",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "empoleon",
+      "name": "Empoleon",
+      "types": [
+        "steel",
+        "water"
+      ],
+      "tier": "S",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/empoleon",
+      "fastMoves": [
+        {
+          "slug": "metal-sound",
+          "name": "Metal Sound",
+          "type": "steel",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-peck",
+          "name": "Drill Peck",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-empoleon",
+      "name": "Shadow Empoleon",
+      "types": [
+        "steel",
+        "water"
+      ],
+      "tier": "S",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-empoleon",
+      "fastMoves": [
+        {
+          "slug": "metal-sound",
+          "name": "Metal Sound",
+          "type": "steel",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-peck",
+          "name": "Drill Peck",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "cradily",
+      "name": "Cradily",
+      "types": [
+        "grass",
+        "rock"
+      ],
+      "tier": "S",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/cradily",
+      "fastMoves": [
+        {
+          "slug": "bullet-seed",
+          "name": "Bullet Seed",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-tomb",
+          "name": "Rock Tomb",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dusclops",
+      "name": "Dusclops",
+      "types": [
+        "ghost"
+      ],
+      "tier": "S",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dusclops",
+      "fastMoves": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "fire-punch",
+          "name": "Fire Punch",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "altaria",
+      "name": "Altaria",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "tier": "S",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/altaria",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sky-attack",
+          "name": "Sky Attack",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "flamethrower",
+          "name": "Flamethrower",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "azumarill",
+      "name": "Azumarill",
+      "types": [
+        "fairy",
+        "water"
+      ],
+      "tier": "S",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/azumarill",
+      "fastMoves": [
+        {
+          "slug": "bubble",
+          "name": "Bubble",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "play-rough",
+          "name": "Play Rough",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "hydro-pump",
+          "name": "Hydro Pump",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-talonflame",
+      "name": "Shadow Talonflame",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "tier": "A+",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-talonflame",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "shadow-annihilape",
+      "name": "Shadow Annihilape",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "tier": "A+",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-annihilape",
+      "fastMoves": [
+        {
+          "slug": "counter",
+          "name": "Counter",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rage-fist",
+          "name": "Rage Fist",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "guzzlord",
+      "name": "Guzzlord",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "tier": "A+",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/guzzlord",
+      "fastMoves": [
+        {
+          "slug": "dragon-tail",
+          "name": "Dragon Tail",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "brutal-swing",
+          "name": "Brutal Swing",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
+          "category": "charged"
+        },
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "regidrago",
+      "name": "Regidrago",
+      "types": [
+        "dragon"
+      ],
+      "tier": "A+",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/regidrago",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hyper-beam",
+          "name": "Hyper Beam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "dragon-energy",
+          "name": "Dragon Energy",
+          "type": "dragon",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "golisopod",
+      "name": "Golisopod",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/golisopod",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "toxapex",
+      "name": "Toxapex",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/toxapex",
+      "fastMoves": [
+        {
+          "slug": "poison-jab",
+          "name": "Poison Jab",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "brine",
+          "name": "Brine",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-wave",
+          "name": "Sludge Wave",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "corviknight",
+      "name": "Corviknight",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/corviknight",
+      "fastMoves": [
+        {
+          "slug": "sand-attack",
+          "name": "Sand Attack",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "air-cutter",
+          "name": "Air Cutter",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "payback",
+          "name": "Payback",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "mimikyu",
+      "name": "Mimikyu",
+      "types": [
+        "fairy",
+        "ghost"
+      ],
+      "tier": "A+",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/mimikyu",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-sneak",
+          "name": "Shadow Sneak",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "play-rough",
+          "name": "Play Rough",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "thunder",
+          "name": "Thunder",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "doublade",
+      "name": "Doublade",
+      "types": [
+        "ghost",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/doublade",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sacred-sword",
+          "name": "Sacred Sword",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "gyro-ball",
+          "name": "Gyro Ball",
+          "type": "steel",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "diggersby",
+      "name": "Diggersby",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "tier": "A+",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/diggersby",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        },
+        {
+          "slug": "quick-attack",
+          "name": "Quick Attack",
+          "type": "normal",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "scorching-sands",
+          "name": "Scorching Sands",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "hyper-beam",
+          "name": "Hyper Beam",
+          "type": "normal",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dedenne",
+      "name": "Dedenne",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "tier": "A+",
+      "rank": 11,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dedenne",
+      "fastMoves": [
+        {
+          "slug": "thunder-shock",
+          "name": "Thunder Shock",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "parabolic-charge",
+          "name": "Parabolic Charge",
+          "type": "electric",
+          "category": "charged"
+        },
+        {
+          "slug": "play-rough",
+          "name": "Play Rough",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "drapion",
+      "name": "Drapion",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "tier": "A+",
+      "rank": 12,
+      "url": "https://pokebase.app/pokemon-go/pokemon/drapion",
+      "fastMoves": [
+        {
+          "slug": "poison-sting",
+          "name": "Poison Sting",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "gastrodon---west-sea",
+      "name": "Gastrodon - West Sea",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 13,
+      "url": "https://pokebase.app/pokemon-go/pokemon/gastrodon---west-sea",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "earth-power",
+          "name": "Earth Power",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "water-pulse",
+          "name": "Water Pulse",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-dusknoir",
+      "name": "Shadow Dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "tier": "A+",
+      "rank": 14,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-dusknoir",
+      "fastMoves": [
+        {
+          "slug": "astonish",
+          "name": "Astonish",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "togekiss",
+      "name": "Togekiss",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "tier": "A+",
+      "rank": 15,
+      "url": "https://pokebase.app/pokemon-go/pokemon/togekiss",
+      "fastMoves": [
+        {
+          "slug": "peck",
+          "name": "Peck",
+          "type": "flying",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "dazzling-gleam",
+          "name": "Dazzling Gleam",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "psyshock",
+          "name": "Psyshock",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "gastrodon---east-sea",
+      "name": "Gastrodon - East Sea",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 16,
+      "url": "https://pokebase.app/pokemon-go/pokemon/gastrodon---east-sea",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "earth-power",
+          "name": "Earth Power",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "water-pulse",
+          "name": "Water Pulse",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "claydol",
+      "name": "Claydol",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "tier": "A+",
+      "rank": 17,
+      "url": "https://pokebase.app/pokemon-go/pokemon/claydol",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "forretress",
+      "name": "Forretress",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 18,
+      "url": "https://pokebase.app/pokemon-go/pokemon/forretress",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "shadow-forretress",
+      "name": "Shadow Forretress",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 19,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-forretress",
+      "fastMoves": [
+        {
+          "slug": "bug-bite",
+          "name": "Bug Bite",
+          "type": "bug",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-tomb",
+          "name": "Rock Tomb",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "sand-tomb",
+          "name": "Sand Tomb",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-quagsire",
+      "name": "Shadow Quagsire",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 20,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-quagsire",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "mud-bomb",
+          "name": "Mud Bomb",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-sableye",
+      "name": "Shadow Sableye",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "tier": "A+",
+      "rank": 21,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-sableye",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "dazzling-gleam",
+          "name": "Dazzling Gleam",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "power-gem",
+          "name": "Power Gem",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "quagsire",
+      "name": "Quagsire",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 22,
+      "url": "https://pokebase.app/pokemon-go/pokemon/quagsire",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "mud-bomb",
+          "name": "Mud Bomb",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-gligar",
+      "name": "Shadow Gligar",
+      "types": [
+        "flying",
+        "ground"
+      ],
+      "tier": "A+",
+      "rank": 23,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-gligar",
+      "fastMoves": [
+        {
+          "slug": "fury-cutter",
+          "name": "Fury Cutter",
+          "type": "bug",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "dig",
+          "name": "Dig",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-feraligatr",
+      "name": "Shadow Feraligatr",
+      "types": [
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 24,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-feraligatr",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "feraligatr",
+      "name": "Feraligatr",
+      "types": [
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 25,
+      "url": "https://pokebase.app/pokemon-go/pokemon/feraligatr",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "furret",
+      "name": "Furret",
+      "types": [
+        "normal"
+      ],
+      "tier": "A+",
+      "rank": 26,
+      "url": "https://pokebase.app/pokemon-go/pokemon/furret",
+      "fastMoves": [
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "swift",
+          "name": "Swift",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "trailblaze",
+          "name": "Trailblaze",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "jumpluff",
+      "name": "Jumpluff",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "tier": "A+",
+      "rank": 27,
+      "url": "https://pokebase.app/pokemon-go/pokemon/jumpluff",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "acrobatics",
+          "name": "Acrobatics",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-jumpluff",
+      "name": "Shadow Jumpluff",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "tier": "A+",
+      "rank": 28,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-jumpluff",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "energy-ball",
+          "name": "Energy Ball",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "acrobatics",
+          "name": "Acrobatics",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-lapras",
+      "name": "Shadow Lapras",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 29,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-lapras",
+      "fastMoves": [
+        {
+          "slug": "psywave",
+          "name": "Psywave",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sparkling-aria",
+          "name": "Sparkling Aria",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "skull-bash",
+          "name": "Skull Bash",
+          "type": "normal",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-marowak",
+      "name": "Shadow Marowak",
+      "types": [
+        "ground"
+      ],
+      "tier": "A+",
+      "rank": 30,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-marowak",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "bone-club",
+          "name": "Bone Club",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lapras",
+      "name": "Lapras",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 31,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lapras",
+      "fastMoves": [
+        {
+          "slug": "psywave",
+          "name": "Psywave",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sparkling-aria",
+          "name": "Sparkling Aria",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "skull-bash",
+          "name": "Skull Bash",
+          "type": "normal",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dewgong",
+      "name": "Dewgong",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 32,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dewgong",
+      "fastMoves": [
+        {
+          "slug": "ice-shard",
+          "name": "Ice Shard",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-run",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "alolan-sandslash",
+      "name": "Alolan Sandslash",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 33,
+      "url": "https://pokebase.app/pokemon-go/pokemon/alolan-sandslash",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-run",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-alolan-sandslash",
+      "name": "Shadow Alolan Sandslash",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "tier": "A+",
+      "rank": 34,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-alolan-sandslash",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-run",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-charizard",
+      "name": "Shadow Charizard",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "tier": "A+",
+      "rank": 35,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-charizard",
+      "fastMoves": [
+        {
+          "slug": "ember",
+          "name": "Ember",
+          "type": "fire",
+          "category": "fast"
+        },
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "blast-burn",
+          "name": "Blast Burn",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "air-cutter",
+          "name": "Air Cutter",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-blastoise",
+      "name": "Shadow Blastoise",
+      "types": [
+        "water"
+      ],
+      "tier": "A+",
+      "rank": 36,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-blastoise",
+      "fastMoves": [
+        {
+          "slug": "rollout",
+          "name": "Rollout",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-greninja",
+      "name": "Shadow Greninja",
+      "types": [
+        "dark",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-greninja",
+      "fastMoves": [
+        {
+          "slug": "water-shuriken",
+          "name": "Water Shuriken",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-giratina-altered-forme",
+      "name": "Shadow Giratina (Altered Forme)",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-giratina-altered-forme",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        },
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "ancient-power",
+          "name": "Ancient Power",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-sneak",
+          "name": "Shadow Sneak",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-grumpig",
+      "name": "Shadow Grumpig",
+      "types": [
+        "psychic"
+      ],
+      "tier": "A",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-grumpig",
+      "fastMoves": [
+        {
+          "slug": "psywave",
+          "name": "Psywave",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-galarian-weezing",
+      "name": "Shadow Galarian Weezing",
+      "types": [
+        "fairy",
+        "poison"
+      ],
+      "tier": "A",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-galarian-weezing",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "brutal-swing",
+          "name": "Brutal Swing",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge",
+          "name": "Sludge",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "annihilape",
+      "name": "Annihilape",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/annihilape",
+      "fastMoves": [
+        {
+          "slug": "counter",
+          "name": "Counter",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rage-fist",
+          "name": "Rage Fist",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "arctibax",
+      "name": "Arctibax",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "tier": "A",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/arctibax",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "avalanche",
+          "name": "Avalanche",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "skeledirge",
+      "name": "Skeledirge",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/skeledirge",
+      "fastMoves": [
+        {
+          "slug": "incinerate",
+          "name": "Incinerate",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "torch-song",
+          "name": "Torch Song",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "disarming-voice",
+          "name": "Disarming Voice",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "spidops",
+      "name": "Spidops",
+      "types": [
+        "bug"
+      ],
+      "tier": "A",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/spidops",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "lunge",
+          "name": "Lunge",
+          "type": "bug",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-tomb",
+          "name": "Rock Tomb",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dragalge",
+      "name": "Dragalge",
+      "types": [
+        "dragon",
+        "poison"
+      ],
+      "tier": "A",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dragalge",
+      "fastMoves": [
+        {
+          "slug": "acid",
+          "name": "Acid",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "outrage",
+          "name": "Outrage",
+          "type": "dragon",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "pangoro",
+      "name": "Pangoro",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "tier": "A",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/pangoro",
+      "fastMoves": [
+        {
+          "slug": "karate-chop",
+          "name": "Karate Chop",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-golurk",
+      "name": "Shadow Golurk",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "tier": "A",
+      "rank": 11,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-golurk",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "greninja",
+      "name": "Greninja",
+      "types": [
+        "dark",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 12,
+      "url": "https://pokebase.app/pokemon-go/pokemon/greninja",
+      "fastMoves": [
+        {
+          "slug": "water-shuriken",
+          "name": "Water Shuriken",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "carbink",
+      "name": "Carbink",
+      "types": [
+        "fairy",
+        "rock"
+      ],
+      "tier": "A",
+      "rank": 13,
+      "url": "https://pokebase.app/pokemon-go/pokemon/carbink",
+      "fastMoves": [
+        {
+          "slug": "rock-throw",
+          "name": "Rock Throw",
+          "type": "rock",
+          "category": "fast"
+        },
+        {
+          "slug": "tackle",
+          "name": "Tackle",
+          "type": "normal",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "moonblast",
+          "name": "Moonblast",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "goodra",
+      "name": "Goodra",
+      "types": [
+        "dragon"
+      ],
+      "tier": "A",
+      "rank": 14,
+      "url": "https://pokebase.app/pokemon-go/pokemon/goodra",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "power-whip",
+          "name": "Power Whip",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "draco-meteor",
+          "name": "Draco Meteor",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "thunder-punch",
+          "name": "Thunder Punch",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "bastiodon",
+      "name": "Bastiodon",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "tier": "A",
+      "rank": 15,
+      "url": "https://pokebase.app/pokemon-go/pokemon/bastiodon",
+      "fastMoves": [
+        {
+          "slug": "smack-down",
+          "name": "Smack Down",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "flamethrower",
+          "name": "Flamethrower",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "abomasnow",
+      "name": "Abomasnow",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "tier": "A",
+      "rank": 16,
+      "url": "https://pokebase.app/pokemon-go/pokemon/abomasnow",
+      "fastMoves": [
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "energy-ball",
+          "name": "Energy Ball",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "metang",
+      "name": "Metang",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "tier": "A",
+      "rank": 17,
+      "url": "https://pokebase.app/pokemon-go/pokemon/metang",
+      "fastMoves": [
+        {
+          "slug": "fury-cutter",
+          "name": "Fury Cutter",
+          "type": "bug",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "psyshock",
+          "name": "Psyshock",
+          "type": "psychic",
+          "category": "charged"
+        },
+        {
+          "slug": "return",
+          "name": "Return",
+          "type": "normal",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "spiritomb",
+      "name": "Spiritomb",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 18,
+      "url": "https://pokebase.app/pokemon-go/pokemon/spiritomb",
+      "fastMoves": [
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-tomb",
+          "name": "Rock Tomb",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dusknoir",
+      "name": "Dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 19,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dusknoir",
+      "fastMoves": [
+        {
+          "slug": "astonish",
+          "name": "Astonish",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-abomasnow",
+      "name": "Shadow Abomasnow",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "tier": "A",
+      "rank": 20,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-abomasnow",
+      "fastMoves": [
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "energy-ball",
+          "name": "Energy Ball",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "registeel",
+      "name": "Registeel",
+      "types": [
+        "steel"
+      ],
+      "tier": "A",
+      "rank": 21,
+      "url": "https://pokebase.app/pokemon-go/pokemon/registeel",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "shadow-whiscash",
+      "name": "Shadow Whiscash",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 22,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-whiscash",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "mud-bomb",
+          "name": "Mud Bomb",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "scald",
+          "name": "Scald",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "grumpig",
+      "name": "Grumpig",
+      "types": [
+        "psychic"
+      ],
+      "tier": "A",
+      "rank": 23,
+      "url": "https://pokebase.app/pokemon-go/pokemon/grumpig",
+      "fastMoves": [
+        {
+          "slug": "psywave",
+          "name": "Psywave",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "whiscash",
+      "name": "Whiscash",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 24,
+      "url": "https://pokebase.app/pokemon-go/pokemon/whiscash",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "mud-bomb",
+          "name": "Mud Bomb",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "scald",
+          "name": "Scald",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "sableye",
+      "name": "Sableye",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "tier": "A",
+      "rank": 25,
+      "url": "https://pokebase.app/pokemon-go/pokemon/sableye",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "dazzling-gleam",
+          "name": "Dazzling Gleam",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "power-gem",
+          "name": "Power Gem",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "miltank",
+      "name": "Miltank",
+      "types": [
+        "normal"
+      ],
+      "tier": "A",
+      "rank": 26,
+      "url": "https://pokebase.app/pokemon-go/pokemon/miltank",
+      "fastMoves": [
+        {
+          "slug": "rollout",
+          "name": "Rollout",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "thunderbolt",
+          "name": "Thunderbolt",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dunsparce",
+      "name": "Dunsparce",
+      "types": [
+        "normal"
+      ],
+      "tier": "A",
+      "rank": 27,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dunsparce",
+      "fastMoves": [
+        {
+          "slug": "rollout",
+          "name": "Rollout",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-run",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "swampert",
+      "name": "Swampert",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 28,
+      "url": "https://pokebase.app/pokemon-go/pokemon/swampert",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge",
+          "name": "Sludge",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-steelix",
+      "name": "Shadow Steelix",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "tier": "A",
+      "rank": 29,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-steelix",
+      "fastMoves": [
+        {
+          "slug": "thunder-fang",
+          "name": "Thunder Fang",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "psychic-fangs",
+          "name": "Psychic Fangs",
+          "type": "psychic",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "breaking-swipe",
+          "name": "Breaking Swipe",
+          "type": "dragon",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "scizor",
+      "name": "Scizor",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "tier": "A",
+      "rank": 30,
+      "url": "https://pokebase.app/pokemon-go/pokemon/scizor",
+      "fastMoves": [
+        {
+          "slug": "bullet-punch",
+          "name": "Bullet Punch",
+          "type": "steel",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "trailblaze",
+          "name": "Trailblaze",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "x-scissor",
+          "name": "X-Scissor",
+          "type": "bug",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-swampert",
+      "name": "Shadow Swampert",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "tier": "A",
+      "rank": 31,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-swampert",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge",
+          "name": "Sludge",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-typhlosion",
+      "name": "Shadow Typhlosion",
+      "types": [
+        "fire"
+      ],
+      "tier": "A",
+      "rank": 32,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-typhlosion",
+      "fastMoves": [
+        {
+          "slug": "incinerate",
+          "name": "Incinerate",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "blast-burn",
+          "name": "Blast Burn",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "thunder-punch",
+          "name": "Thunder Punch",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "galarian-moltres",
+      "name": "Galarian Moltres",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "tier": "A",
+      "rank": 33,
+      "url": "https://pokebase.app/pokemon-go/pokemon/galarian-moltres",
+      "fastMoves": [
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "brave-bird",
+          "name": "Brave Bird",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "fly",
+          "name": "Fly",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "galarian-weezing",
+      "name": "Galarian Weezing",
+      "types": [
+        "fairy",
+        "poison"
+      ],
+      "tier": "A",
+      "rank": 34,
+      "url": "https://pokebase.app/pokemon-go/pokemon/galarian-weezing",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "brutal-swing",
+          "name": "Brutal Swing",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge",
+          "name": "Sludge",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "marowak",
+      "name": "Marowak",
+      "types": [
+        "ground"
+      ],
+      "tier": "A",
+      "rank": 35,
+      "url": "https://pokebase.app/pokemon-go/pokemon/marowak",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "bone-club",
+          "name": "Bone Club",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "blastoise",
+      "name": "Blastoise",
+      "types": [
+        "water"
+      ],
+      "tier": "A",
+      "rank": 36,
+      "url": "https://pokebase.app/pokemon-go/pokemon/blastoise",
+      "fastMoves": [
+        {
+          "slug": "rollout",
+          "name": "Rollout",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "hydro-cannon",
+          "name": "Hydro Cannon",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "wigglytuff",
+      "name": "Wigglytuff",
+      "types": [
+        "fairy",
+        "normal"
+      ],
+      "tier": "A",
+      "rank": 37,
+      "url": "https://pokebase.app/pokemon-go/pokemon/wigglytuff",
+      "fastMoves": [
+        {
+          "slug": "charm",
+          "name": "Charm",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "swift",
+          "name": "Swift",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "charizard",
+      "name": "Charizard",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "tier": "A",
+      "rank": 38,
+      "url": "https://pokebase.app/pokemon-go/pokemon/charizard",
+      "fastMoves": [
+        {
+          "slug": "ember",
+          "name": "Ember",
+          "type": "fire",
+          "category": "fast"
+        },
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "blast-burn",
+          "name": "Blast Burn",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "air-cutter",
+          "name": "Air Cutter",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "fearow",
+      "name": "Fearow",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "tier": "A",
+      "rank": 39,
+      "url": "https://pokebase.app/pokemon-go/pokemon/fearow",
+      "fastMoves": [
+        {
+          "slug": "peck",
+          "name": "Peck",
+          "type": "flying",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "drill-peck",
+          "name": "Drill Peck",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "drill-run",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-altaria",
+      "name": "Shadow Altaria",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "tier": "B+",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-altaria",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sky-attack",
+          "name": "Sky Attack",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "flamethrower",
+          "name": "Flamethrower",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "bellibolt",
+      "name": "Bellibolt",
+      "types": [
+        "electric"
+      ],
+      "tier": "B+",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/bellibolt",
+      "fastMoves": [
+        {
+          "slug": "thunder-shock",
+          "name": "Thunder Shock",
+          "type": "electric",
+          "category": "fast"
+        },
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "zap-cannon",
+          "name": "Zap Cannon",
+          "type": "electric",
+          "category": "charged"
+        },
+        {
+          "slug": "parabolic-charge",
+          "name": "Parabolic Charge",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lokix",
+      "name": "Lokix",
+      "types": [
+        "bug",
+        "dark"
+      ],
+      "tier": "B+",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lokix",
+      "fastMoves": [
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "x-scissor",
+          "name": "X-Scissor",
+          "type": "bug",
+          "category": "charged"
+        },
+        {
+          "slug": "trailblaze",
+          "name": "Trailblaze",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "kommo-o",
+      "name": "Kommo-o",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "tier": "B+",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/kommo-o",
+      "fastMoves": [
+        {
+          "slug": "dragon-tail",
+          "name": "Dragon Tail",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "florges",
+      "name": "Florges",
+      "types": [
+        "fairy"
+      ],
+      "tier": "B+",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/florges",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "chilling-water",
+          "name": "Chilling Water",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "moonblast",
+          "name": "Moonblast",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "disarming-voice",
+          "name": "Disarming Voice",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "aurorus",
+      "name": "Aurorus",
+      "types": [
+        "ice",
+        "rock"
+      ],
+      "tier": "B+",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/aurorus",
+      "fastMoves": [
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "thunderbolt",
+          "name": "Thunderbolt",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "malamar",
+      "name": "Malamar",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "tier": "B+",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/malamar",
+      "fastMoves": [
+        {
+          "slug": "psywave",
+          "name": "Psywave",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "superpower",
+          "name": "Superpower",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "golurk",
+      "name": "Golurk",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "tier": "B+",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/golurk",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-punch",
+          "name": "Shadow Punch",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "whimsicott",
+      "name": "Whimsicott",
+      "types": [
+        "fairy",
+        "grass"
+      ],
+      "tier": "B+",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/whimsicott",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        },
+        {
+          "slug": "charm",
+          "name": "Charm",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "seed-bomb",
+          "name": "Seed Bomb",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "moonblast",
+          "name": "Moonblast",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "hurricane",
+          "name": "Hurricane",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-bastiodon",
+      "name": "Shadow Bastiodon",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "tier": "B+",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-bastiodon",
+      "fastMoves": [
+        {
+          "slug": "smack-down",
+          "name": "Smack Down",
+          "type": "rock",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "flamethrower",
+          "name": "Flamethrower",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "gliscor",
+      "name": "Gliscor",
+      "types": [
+        "flying",
+        "ground"
+      ],
+      "tier": "B+",
+      "rank": 11,
+      "url": "https://pokebase.app/pokemon-go/pokemon/gliscor",
+      "fastMoves": [
+        {
+          "slug": "sand-attack",
+          "name": "Sand Attack",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-latias",
+      "name": "Shadow Latias",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "tier": "B+",
+      "rank": 12,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-latias",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "mist-ball",
+          "name": "Mist Ball",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "walrein",
+      "name": "Walrein",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "tier": "B+",
+      "rank": 13,
+      "url": "https://pokebase.app/pokemon-go/pokemon/walrein",
+      "fastMoves": [
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "icicle-spear",
+          "name": "Icicle Spear",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lickilicky",
+      "name": "Lickilicky",
+      "types": [
+        "normal"
+      ],
+      "tier": "B+",
+      "rank": 14,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lickilicky",
+      "fastMoves": [
+        {
+          "slug": "lick",
+          "name": "Lick",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "jirachi",
+      "name": "Jirachi",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "tier": "B+",
+      "rank": 15,
+      "url": "https://pokebase.app/pokemon-go/pokemon/jirachi",
+      "fastMoves": [
+        {
+          "slug": "confusion",
+          "name": "Confusion",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "doom-desire",
+          "name": "Doom Desire",
+          "type": "steel",
+          "category": "charged"
+        },
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "latias",
+      "name": "Latias",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "tier": "B+",
+      "rank": 16,
+      "url": "https://pokebase.app/pokemon-go/pokemon/latias",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "mist-ball",
+          "name": "Mist Ball",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "torkoal",
+      "name": "Torkoal",
+      "types": [
+        "fire"
+      ],
+      "tier": "B+",
+      "rank": 17,
+      "url": "https://pokebase.app/pokemon-go/pokemon/torkoal",
+      "fastMoves": [
+        {
+          "slug": "ember",
+          "name": "Ember",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "flame-wheel",
+          "name": "Flame Wheel",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "solar-beam",
+          "name": "Solar Beam",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-walrein",
+      "name": "Shadow Walrein",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "tier": "B+",
+      "rank": 18,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-walrein",
+      "fastMoves": [
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        },
+        {
+          "slug": "waterfall",
+          "name": "Waterfall",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "icicle-spear",
+          "name": "Icicle Spear",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-cradily",
+      "name": "Shadow Cradily",
+      "types": [
+        "grass",
+        "rock"
+      ],
+      "tier": "B+",
+      "rank": 19,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-cradily",
+      "fastMoves": [
+        {
+          "slug": "bullet-seed",
+          "name": "Bullet Seed",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-tomb",
+          "name": "Rock Tomb",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "ludicolo",
+      "name": "Ludicolo",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "tier": "B+",
+      "rank": 20,
+      "url": "https://pokebase.app/pokemon-go/pokemon/ludicolo",
+      "fastMoves": [
+        {
+          "slug": "astonish",
+          "name": "Astonish",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "weather-ball-water",
+          "name": "Weather Ball Water",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "leaf-storm",
+          "name": "Leaf Storm",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "energy-ball",
+          "name": "Energy Ball",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-beam",
+          "name": "Ice Beam",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "steelix",
+      "name": "Steelix",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "tier": "B+",
+      "rank": 21,
+      "url": "https://pokebase.app/pokemon-go/pokemon/steelix",
+      "fastMoves": [
+        {
+          "slug": "dragon-tail",
+          "name": "Dragon Tail",
+          "type": "dragon",
+          "category": "fast"
+        },
+        {
+          "slug": "thunder-fang",
+          "name": "Thunder Fang",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "psychic-fangs",
+          "name": "Psychic Fangs",
+          "type": "psychic",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "crunch",
+          "name": "Crunch",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "breaking-swipe",
+          "name": "Breaking Swipe",
+          "type": "dragon",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-donphan",
+      "name": "Shadow Donphan",
+      "types": [
+        "ground"
+      ],
+      "tier": "B+",
+      "rank": 22,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-donphan",
+      "fastMoves": [
+        {
+          "slug": "mud-slap",
+          "name": "Mud Slap",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "trailblaze",
+          "name": "Trailblaze",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "play-rough",
+          "name": "Play Rough",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "umbreon",
+      "name": "Umbreon",
+      "types": [
+        "dark"
+      ],
+      "tier": "B+",
+      "rank": 23,
+      "url": "https://pokebase.app/pokemon-go/pokemon/umbreon",
+      "fastMoves": [
+        {
+          "slug": "snarl",
+          "name": "Snarl",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "dark-pulse",
+          "name": "Dark Pulse",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "last-resort",
+          "name": "Last Resort",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "psychic",
+          "name": "Psychic",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lanturn",
+      "name": "Lanturn",
+      "types": [
+        "electric",
+        "water"
+      ],
+      "tier": "B+",
+      "rank": 24,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lanturn",
+      "fastMoves": [
+        {
+          "slug": "spark",
+          "name": "Spark",
+          "type": "electric",
+          "category": "fast"
+        },
+        {
+          "slug": "water-gun",
+          "name": "Water Gun",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "surf",
+          "name": "Surf",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "thunderbolt",
+          "name": "Thunderbolt",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "ariados",
+      "name": "Ariados",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "tier": "B+",
+      "rank": 25,
+      "url": "https://pokebase.app/pokemon-go/pokemon/ariados",
+      "fastMoves": [
+        {
+          "slug": "poison-sting",
+          "name": "Poison Sting",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "lunge",
+          "name": "Lunge",
+          "type": "bug",
+          "category": "charged"
+        },
+        {
+          "slug": "trailblaze",
+          "name": "Trailblaze",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-dragonite",
+      "name": "Shadow Dragonite",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "tier": "B+",
+      "rank": 26,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-dragonite",
+      "fastMoves": [
+        {
+          "slug": "dragon-tail",
+          "name": "Dragon Tail",
+          "type": "dragon",
+          "category": "fast"
+        },
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "superpower",
+          "name": "Superpower",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "hurricane",
+          "name": "Hurricane",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "alolan-marowak",
+      "name": "Alolan Marowak",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "tier": "B+",
+      "rank": 27,
+      "url": "https://pokebase.app/pokemon-go/pokemon/alolan-marowak",
+      "fastMoves": [
+        {
+          "slug": "fire-spin",
+          "name": "Fire Spin",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "bone-club",
+          "name": "Bone Club",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-bone",
+          "name": "Shadow Bone",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-alolan-marowak",
+      "name": "Shadow Alolan Marowak",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "tier": "B+",
+      "rank": 28,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-alolan-marowak",
+      "fastMoves": [
+        {
+          "slug": "fire-spin",
+          "name": "Fire Spin",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "bone-club",
+          "name": "Bone Club",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-bone",
+          "name": "Shadow Bone",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-poliwrath",
+      "name": "Shadow Poliwrath",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "tier": "B+",
+      "rank": 29,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-poliwrath",
+      "fastMoves": [
+        {
+          "slug": "counter",
+          "name": "Counter",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "power-up-punch",
+          "name": "Power-Up Punch",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "scald",
+          "name": "Scald",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "machamp",
+      "name": "Machamp",
+      "types": [
+        "fighting"
+      ],
+      "tier": "B+",
+      "rank": 30,
+      "url": "https://pokebase.app/pokemon-go/pokemon/machamp",
+      "fastMoves": [
+        {
+          "slug": "karate-chop",
+          "name": "Karate Chop",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "cross-chop",
+          "name": "Cross Chop",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-machamp",
+      "name": "Shadow Machamp",
+      "types": [
+        "fighting"
+      ],
+      "tier": "B+",
+      "rank": 31,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-machamp",
+      "fastMoves": [
+        {
+          "slug": "karate-chop",
+          "name": "Karate Chop",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "cross-chop",
+          "name": "Cross Chop",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "clefable",
+      "name": "Clefable",
+      "types": [
+        "fairy"
+      ],
+      "tier": "B+",
+      "rank": 32,
+      "url": "https://pokebase.app/pokemon-go/pokemon/clefable",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "venusaur",
+      "name": "Venusaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "tier": "B+",
+      "rank": 33,
+      "url": "https://pokebase.app/pokemon-go/pokemon/venusaur",
+      "fastMoves": [
+        {
+          "slug": "vine-whip",
+          "name": "Vine Whip",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-venusaur",
+      "name": "Shadow Venusaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "tier": "B+",
+      "rank": 34,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-venusaur",
+      "fastMoves": [
+        {
+          "slug": "vine-whip",
+          "name": "Vine Whip",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "kingambit",
+      "name": "Kingambit",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "tier": "B",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/kingambit",
+      "fastMoves": [
+        {
+          "slug": "metal-sound",
+          "name": "Metal Sound",
+          "type": "steel",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "iron-head",
+          "name": "Iron Head",
+          "type": "steel",
+          "category": "charged"
+        },
+        {
+          "slug": "focus-blast",
+          "name": "Focus Blast",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "bombirdier",
+      "name": "Bombirdier",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "tier": "B",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/bombirdier",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "hakamo-o",
+      "name": "Hakamo-o",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "tier": "B",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/hakamo-o",
+      "fastMoves": [
+        {
+          "slug": "dragon-tail",
+          "name": "Dragon Tail",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dragon-claw",
+          "name": "Dragon Claw",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "brick-break",
+          "name": "Brick Break",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "cresselia",
+      "name": "Cresselia",
+      "types": [
+        "psychic"
+      ],
+      "tier": "B",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/cresselia",
+      "fastMoves": [
+        {
+          "slug": "psycho-cut",
+          "name": "Psycho Cut",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "grass-knot",
+          "name": "Grass Knot",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "moonblast",
+          "name": "Moonblast",
+          "type": "fairy",
+          "category": "charged"
+        },
+        {
+          "slug": "future-sight",
+          "name": "Future Sight",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "giratina-origin-forme",
+      "name": "Giratina (Origin Forme)",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "tier": "B",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/giratina-origin-forme",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "ominous-wind",
+          "name": "Ominous Wind",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "galvantula",
+      "name": "Galvantula",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "tier": "B",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/galvantula",
+      "fastMoves": [
+        {
+          "slug": "volt-switch",
+          "name": "Volt Switch",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "discharge",
+          "name": "Discharge",
+          "type": "electric",
+          "category": "charged"
+        },
+        {
+          "slug": "lunge",
+          "name": "Lunge",
+          "type": "bug",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "serperior",
+      "name": "Serperior",
+      "types": [
+        "grass"
+      ],
+      "tier": "B",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/serperior",
+      "fastMoves": [
+        {
+          "slug": "vine-whip",
+          "name": "Vine Whip",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "leaf-tornado",
+          "name": "Leaf Tornado",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-hippowdon",
+      "name": "Shadow Hippowdon",
+      "types": [
+        "ground"
+      ],
+      "tier": "B",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-hippowdon",
+      "fastMoves": [
+        {
+          "slug": "sand-attack",
+          "name": "Sand Attack",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "weather-ball-rock",
+          "name": "Weather Ball Rock",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "scorching-sands",
+          "name": "Scorching Sands",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "froslass",
+      "name": "Froslass",
+      "types": [
+        "ghost",
+        "ice"
+      ],
+      "tier": "B",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/froslass",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "drifblim",
+      "name": "Drifblim",
+      "types": [
+        "flying",
+        "ghost"
+      ],
+      "tier": "B",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/drifblim",
+      "fastMoves": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "mystical-fire",
+          "name": "Mystical Fire",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-magnezone",
+      "name": "Shadow Magnezone",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "tier": "B",
+      "rank": 11,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-magnezone",
+      "fastMoves": [
+        {
+          "slug": "volt-switch",
+          "name": "Volt Switch",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "wild-charge",
+          "name": "Wild Charge",
+          "type": "electric",
+          "category": "charged"
+        },
+        {
+          "slug": "mirror-shot",
+          "name": "Mirror Shot",
+          "type": "steel",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "bronzong",
+      "name": "Bronzong",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "tier": "B",
+      "rank": 12,
+      "url": "https://pokebase.app/pokemon-go/pokemon/bronzong",
+      "fastMoves": [
+        {
+          "slug": "confusion",
+          "name": "Confusion",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "psyshock",
+          "name": "Psyshock",
+          "type": "psychic",
+          "category": "charged"
+        },
+        {
+          "slug": "weather-ball-water",
+          "name": "Weather Ball Water",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "payback",
+          "name": "Payback",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "bulldoze",
+          "name": "Bulldoze",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-drifblim",
+      "name": "Shadow Drifblim",
+      "types": [
+        "flying",
+        "ghost"
+      ],
+      "tier": "B",
+      "rank": 13,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-drifblim",
+      "fastMoves": [
+        {
+          "slug": "hex",
+          "name": "Hex",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "mystical-fire",
+          "name": "Mystical Fire",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "icy-wind",
+          "name": "Icy Wind",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "regirock",
+      "name": "Regirock",
+      "types": [
+        "rock"
+      ],
+      "tier": "B",
+      "rank": 14,
+      "url": "https://pokebase.app/pokemon-go/pokemon/regirock",
+      "fastMoves": [
+        {
+          "slug": "lock-on",
+          "name": "Lock-On",
+          "type": "normal",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        },
+        {
+          "slug": "focus-blast",
+          "name": "Focus Blast",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "latios",
+      "name": "Latios",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "tier": "B",
+      "rank": 15,
+      "url": "https://pokebase.app/pokemon-go/pokemon/latios",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "luster-purge",
+          "name": "Luster Purge",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-latios",
+      "name": "Shadow Latios",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "tier": "B",
+      "rank": 16,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-latios",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aura-sphere",
+          "name": "Aura Sphere",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "luster-purge",
+          "name": "Luster Purge",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "tropius",
+      "name": "Tropius",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "tier": "B",
+      "rank": 17,
+      "url": "https://pokebase.app/pokemon-go/pokemon/tropius",
+      "fastMoves": [
+        {
+          "slug": "air-slash",
+          "name": "Air Slash",
+          "type": "flying",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "leaf-blade",
+          "name": "Leaf Blade",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "brutal-swing",
+          "name": "Brutal Swing",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "medicham",
+      "name": "Medicham",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "tier": "B",
+      "rank": 18,
+      "url": "https://pokebase.app/pokemon-go/pokemon/medicham",
+      "fastMoves": [
+        {
+          "slug": "psycho-cut",
+          "name": "Psycho Cut",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "ice-punch",
+          "name": "Ice Punch",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-ursaring",
+      "name": "Shadow Ursaring",
+      "types": [
+        "normal"
+      ],
+      "tier": "B",
+      "rank": 19,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-ursaring",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "swift",
+          "name": "Swift",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "qwilfish",
+      "name": "Qwilfish",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "tier": "B",
+      "rank": 20,
+      "url": "https://pokebase.app/pokemon-go/pokemon/qwilfish",
+      "fastMoves": [
+        {
+          "slug": "poison-sting",
+          "name": "Poison Sting",
+          "type": "poison",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-wave",
+          "name": "Sludge Wave",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-dragonair",
+      "name": "Shadow Dragonair",
+      "types": [
+        "dragon"
+      ],
+      "tier": "B",
+      "rank": 21,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-dragonair",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "togetic",
+      "name": "Togetic",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "tier": "B",
+      "rank": 22,
+      "url": "https://pokebase.app/pokemon-go/pokemon/togetic",
+      "fastMoves": [
+        {
+          "slug": "fairy-wind",
+          "name": "Fairy Wind",
+          "type": "fairy",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aerial-ace",
+          "name": "Aerial Ace",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "dazzling-gleam",
+          "name": "Dazzling Gleam",
+          "type": "fairy",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "alolan-ninetales",
+      "name": "Alolan Ninetales",
+      "types": [
+        "fairy",
+        "ice"
+      ],
+      "tier": "B",
+      "rank": 23,
+      "url": "https://pokebase.app/pokemon-go/pokemon/alolan-ninetales",
+      "fastMoves": [
+        {
+          "slug": "charm",
+          "name": "Charm",
+          "type": "fairy",
+          "category": "fast"
+        },
+        {
+          "slug": "powder-snow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "weather-ball-ice",
+          "name": "Weather Ball Ice",
+          "type": "ice",
+          "category": "charged"
+        },
+        {
+          "slug": "psyshock",
+          "name": "Psyshock",
+          "type": "psychic",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-trevenant",
+      "name": "Shadow Trevenant",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 1,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-trevenant",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "seed-bomb",
+          "name": "Seed Bomb",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-zweilous",
+      "name": "Shadow Zweilous",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "tier": "C",
+      "rank": 2,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-zweilous",
+      "fastMoves": [],
+      "chargedMoves": []
+    },
+    {
+      "slug": "shadow-palkia",
+      "name": "Shadow Palkia",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "tier": "C",
+      "rank": 3,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-palkia",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "aqua-tail",
+          "name": "Aqua Tail",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "draco-meteor",
+          "name": "Draco Meteor",
+          "type": "dragon",
+          "category": "charged"
+        },
+        {
+          "slug": "fire-blast",
+          "name": "Fire Blast",
+          "type": "fire",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "runerigus",
+      "name": "Runerigus",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "tier": "C",
+      "rank": 4,
+      "url": "https://pokebase.app/pokemon-go/pokemon/runerigus",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "brutal-swing",
+          "name": "Brutal Swing",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "sand-tomb",
+          "name": "Sand Tomb",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "melmetal",
+      "name": "Melmetal",
+      "types": [
+        "steel"
+      ],
+      "tier": "C",
+      "rank": 5,
+      "url": "https://pokebase.app/pokemon-go/pokemon/melmetal",
+      "fastMoves": [
+        {
+          "slug": "thunder-shock",
+          "name": "Thunder Shock",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "double-iron-bash",
+          "name": "Double Iron Bash",
+          "type": "steel",
+          "category": "charged"
+        },
+        {
+          "slug": "thunderbolt",
+          "name": "Thunderbolt",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "togedemaru",
+      "name": "Togedemaru",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "tier": "C",
+      "rank": 6,
+      "url": "https://pokebase.app/pokemon-go/pokemon/togedemaru",
+      "fastMoves": [
+        {
+          "slug": "thunder-shock",
+          "name": "Thunder Shock",
+          "type": "electric",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "wild-charge",
+          "name": "Wild Charge",
+          "type": "electric",
+          "category": "charged"
+        },
+        {
+          "slug": "fell-stinger",
+          "name": "Fell Stinger",
+          "type": "bug",
+          "category": "charged"
+        },
+        {
+          "slug": "gyro-ball",
+          "name": "Gyro Ball",
+          "type": "steel",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dubwool",
+      "name": "Dubwool",
+      "types": [
+        "normal"
+      ],
+      "tier": "C",
+      "rank": 7,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dubwool",
+      "fastMoves": [
+        {
+          "slug": "double-kick",
+          "name": "Double Kick",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "wild-charge",
+          "name": "Wild Charge",
+          "type": "electric",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "meowscarada",
+      "name": "Meowscarada",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 8,
+      "url": "https://pokebase.app/pokemon-go/pokemon/meowscarada",
+      "fastMoves": [
+        {
+          "slug": "leafage",
+          "name": "Leafage",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "night-slash",
+          "name": "Night Slash",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lurantis",
+      "name": "Lurantis",
+      "types": [
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 9,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lurantis",
+      "fastMoves": [
+        {
+          "slug": "leafage",
+          "name": "Leafage",
+          "type": "grass",
+          "category": "fast"
+        },
+        {
+          "slug": "fury-cutter",
+          "name": "Fury Cutter",
+          "type": "bug",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "leaf-blade",
+          "name": "Leaf Blade",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "superpower",
+          "name": "Superpower",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "dondozo",
+      "name": "Dondozo",
+      "types": [
+        "water"
+      ],
+      "tier": "C",
+      "rank": 10,
+      "url": "https://pokebase.app/pokemon-go/pokemon/dondozo",
+      "fastMoves": [
+        {
+          "slug": "water-gun",
+          "name": "Water Gun",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "surf",
+          "name": "Surf",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "outrage",
+          "name": "Outrage",
+          "type": "dragon",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "urshifu---single-strike-style",
+      "name": "Urshifu - Single Strike Style",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "tier": "C",
+      "rank": 11,
+      "url": "https://pokebase.app/pokemon-go/pokemon/urshifu---single-strike-style",
+      "fastMoves": [
+        {
+          "slug": "sucker-punch",
+          "name": "Sucker Punch",
+          "type": "dark",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "payback",
+          "name": "Payback",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "urshifu---rapid-strike-style",
+      "name": "Urshifu - Rapid Strike Style",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "tier": "C",
+      "rank": 12,
+      "url": "https://pokebase.app/pokemon-go/pokemon/urshifu---rapid-strike-style",
+      "fastMoves": [
+        {
+          "slug": "counter",
+          "name": "Counter",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "aqua-jet",
+          "name": "Aqua Jet",
+          "type": "water",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "talonflame",
+      "name": "Talonflame",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "tier": "C",
+      "rank": 13,
+      "url": "https://pokebase.app/pokemon-go/pokemon/talonflame",
+      "fastMoves": [
+        {
+          "slug": "incinerate",
+          "name": "Incinerate",
+          "type": "fire",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "flame-charge",
+          "name": "Flame Charge",
+          "type": "fire",
+          "category": "charged"
+        },
+        {
+          "slug": "brave-bird",
+          "name": "Brave Bird",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "fly",
+          "name": "Fly",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "trevenant",
+      "name": "Trevenant",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 14,
+      "url": "https://pokebase.app/pokemon-go/pokemon/trevenant",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "seed-bomb",
+          "name": "Seed Bomb",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "galarian-stunfisk",
+      "name": "Galarian Stunfisk",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "tier": "C",
+      "rank": 15,
+      "url": "https://pokebase.app/pokemon-go/pokemon/galarian-stunfisk",
+      "fastMoves": [
+        {
+          "slug": "mud-shot",
+          "name": "Mud Shot",
+          "type": "ground",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "rock-slide",
+          "name": "Rock Slide",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "zweilous",
+      "name": "Zweilous",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "tier": "C",
+      "rank": 16,
+      "url": "https://pokebase.app/pokemon-go/pokemon/zweilous",
+      "fastMoves": [
+        {
+          "slug": "dragon-breath",
+          "name": "Dragon Breath",
+          "type": "dragon",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "body-slam",
+          "name": "Body Slam",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "dark-pulse",
+          "name": "Dark Pulse",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "cofagrigus",
+      "name": "Cofagrigus",
+      "types": [
+        "ghost"
+      ],
+      "tier": "C",
+      "rank": 17,
+      "url": "https://pokebase.app/pokemon-go/pokemon/cofagrigus",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        },
+        {
+          "slug": "dark-pulse",
+          "name": "Dark Pulse",
+          "type": "dark",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "scrafty",
+      "name": "Scrafty",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "tier": "C",
+      "rank": 18,
+      "url": "https://pokebase.app/pokemon-go/pokemon/scrafty",
+      "fastMoves": [
+        {
+          "slug": "counter",
+          "name": "Counter",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "upper-hand",
+          "name": "Upper Hand",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "hisuian-zoroark",
+      "name": "Hisuian Zoroark",
+      "types": [
+        "ghost",
+        "normal"
+      ],
+      "tier": "C",
+      "rank": 19,
+      "url": "https://pokebase.app/pokemon-go/pokemon/hisuian-zoroark",
+      "fastMoves": [
+        {
+          "slug": "shadow-claw",
+          "name": "Shadow Claw",
+          "type": "ghost",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "foul-play",
+          "name": "Foul Play",
+          "type": "dark",
+          "category": "charged"
+        },
+        {
+          "slug": "shadow-ball",
+          "name": "Shadow Ball",
+          "type": "ghost",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "hisuian-lilligant",
+      "name": "Hisuian Lilligant",
+      "types": [
+        "fighting",
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 20,
+      "url": "https://pokebase.app/pokemon-go/pokemon/hisuian-lilligant",
+      "fastMoves": [
+        {
+          "slug": "magical-leaf",
+          "name": "Magical Leaf",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "upper-hand",
+          "name": "Upper Hand",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "petal-blizzard",
+          "name": "Petal Blizzard",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "gallade",
+      "name": "Gallade",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "tier": "C",
+      "rank": 21,
+      "url": "https://pokebase.app/pokemon-go/pokemon/gallade",
+      "fastMoves": [
+        {
+          "slug": "psycho-cut",
+          "name": "Psycho Cut",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "leaf-blade",
+          "name": "Leaf Blade",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "close-combat",
+          "name": "Close Combat",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-regirock",
+      "name": "Shadow Regirock",
+      "types": [
+        "rock"
+      ],
+      "tier": "C",
+      "rank": 22,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-regirock",
+      "fastMoves": [
+        {
+          "slug": "lock-on",
+          "name": "Lock-On",
+          "type": "normal",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "stone-edge",
+          "name": "Stone Edge",
+          "type": "rock",
+          "category": "charged"
+        },
+        {
+          "slug": "focus-blast",
+          "name": "Focus Blast",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "pelipper",
+      "name": "Pelipper",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "tier": "C",
+      "rank": 23,
+      "url": "https://pokebase.app/pokemon-go/pokemon/pelipper",
+      "fastMoves": [
+        {
+          "slug": "wing-attack",
+          "name": "Wing Attack",
+          "type": "flying",
+          "category": "fast"
+        },
+        {
+          "slug": "water-gun",
+          "name": "Water Gun",
+          "type": "water",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "weather-ball-water",
+          "name": "Weather Ball Water",
+          "type": "water",
+          "category": "charged"
+        },
+        {
+          "slug": "hurricane",
+          "name": "Hurricane",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "blizzard",
+          "name": "Blizzard",
+          "type": "ice",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "skarmory",
+      "name": "Skarmory",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "tier": "C",
+      "rank": 24,
+      "url": "https://pokebase.app/pokemon-go/pokemon/skarmory",
+      "fastMoves": [
+        {
+          "slug": "steel-wing",
+          "name": "Steel Wing",
+          "type": "steel",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "sky-attack",
+          "name": "Sky Attack",
+          "type": "flying",
+          "category": "charged"
+        },
+        {
+          "slug": "brave-bird",
+          "name": "Brave Bird",
+          "type": "flying",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "meganium",
+      "name": "Meganium",
+      "types": [
+        "grass"
+      ],
+      "tier": "C",
+      "rank": 25,
+      "url": "https://pokebase.app/pokemon-go/pokemon/meganium",
+      "fastMoves": [
+        {
+          "slug": "vine-whip",
+          "name": "Vine Whip",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "frenzy-plant",
+          "name": "Frenzy Plant",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "earthquake",
+          "name": "Earthquake",
+          "type": "ground",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "lickitung",
+      "name": "Lickitung",
+      "types": [
+        "normal"
+      ],
+      "tier": "C",
+      "rank": 26,
+      "url": "https://pokebase.app/pokemon-go/pokemon/lickitung",
+      "fastMoves": [
+        {
+          "slug": "zen-headbutt",
+          "name": "Zen Headbutt",
+          "type": "psychic",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "wrap",
+          "name": "Wrap",
+          "type": "normal",
+          "category": "charged"
+        },
+        {
+          "slug": "power-whip",
+          "name": "Power Whip",
+          "type": "grass",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-victreebel",
+      "name": "Shadow Victreebel",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "tier": "C",
+      "rank": 27,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-victreebel",
+      "fastMoves": [
+        {
+          "slug": "magical-leaf",
+          "name": "Magical Leaf",
+          "type": "grass",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "leaf-blade",
+          "name": "Leaf Blade",
+          "type": "grass",
+          "category": "charged"
+        },
+        {
+          "slug": "sludge-bomb",
+          "name": "Sludge Bomb",
+          "type": "poison",
+          "category": "charged"
+        }
+      ]
+    },
+    {
+      "slug": "shadow-machoke",
+      "name": "Shadow Machoke",
+      "types": [
+        "fighting"
+      ],
+      "tier": "C",
+      "rank": 28,
+      "url": "https://pokebase.app/pokemon-go/pokemon/shadow-machoke",
+      "fastMoves": [
+        {
+          "slug": "karate-chop",
+          "name": "Karate Chop",
+          "type": "fighting",
+          "category": "fast"
+        }
+      ],
+      "chargedMoves": [
+        {
+          "slug": "cross-chop",
+          "name": "Cross Chop",
+          "type": "fighting",
+          "category": "charged"
+        },
+        {
+          "slug": "dynamic-punch",
+          "name": "Dynamic Punch",
+          "type": "fighting",
+          "category": "charged"
+        }
+      ]
+    }
+  ]
+}
