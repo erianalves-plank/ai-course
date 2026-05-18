@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useMemo, useState } from "react";
 import type { PokemonType } from "../lib/pokeapi";
 import { TYPE_COLORS, titleCase } from "../lib/pokeapi";
@@ -18,6 +19,7 @@ export type PokemonEntry = {
   types: PokemonType[];
   tier: string;
   rank: number;
+  imageUrl: string | null;
 };
 
 const TEAM_SIZE = 3;
@@ -168,7 +170,7 @@ function TeamSlot({
 }) {
   if (!member) {
     return (
-      <div className="flex h-32 flex-col items-center justify-center gap-1 rounded-2xl border-2 border-dashed border-zinc-300 bg-white/40 text-xs text-zinc-400 sm:h-40">
+      <div className="flex h-44 flex-col items-center justify-center gap-1 rounded-2xl border-2 border-dashed border-zinc-300 bg-white/40 text-xs text-zinc-400 sm:h-56">
         <span className="text-3xl">+</span>
         <span>Empty slot</span>
       </div>
@@ -177,20 +179,36 @@ function TeamSlot({
   const palette = TYPE_COLORS[member.types[0]];
   return (
     <div
-      className="relative flex h-32 flex-col items-center justify-center gap-1 overflow-hidden rounded-2xl bg-white p-3 text-center shadow-sm ring-1 ring-zinc-200 sm:h-40"
+      className="relative flex h-44 flex-col items-center justify-end gap-1.5 overflow-hidden rounded-2xl bg-white px-3 pb-3 pt-2 text-center shadow-sm ring-1 ring-zinc-200 sm:h-56"
       style={{ backgroundColor: palette.bg + "22" }}
     >
       <button
         type="button"
         onClick={onRemove}
         aria-label={`Remove ${member.name} from team`}
-        className="absolute right-2 top-2 grid h-6 w-6 place-items-center rounded-full bg-white/80 text-zinc-600 transition-colors hover:bg-white"
+        className="absolute right-2 top-2 z-10 grid h-6 w-6 place-items-center rounded-full bg-white/80 text-zinc-600 transition-colors hover:bg-white"
       >
         ×
       </button>
-      <span className="text-[10px] font-mono uppercase tracking-wider text-zinc-500">
+      <span className="absolute left-3 top-2 text-[10px] font-mono uppercase tracking-wider text-zinc-500">
         Tier {member.tier}
       </span>
+      <div className="flex flex-1 items-center justify-center">
+        {member.imageUrl ? (
+          <Image
+            src={member.imageUrl}
+            alt={titleCase(member.name)}
+            width={120}
+            height={120}
+            className="h-20 w-20 object-contain drop-shadow-[0_6px_8px_rgba(0,0,0,0.15)] sm:h-28 sm:w-28"
+            unoptimized
+          />
+        ) : (
+          <div className="grid h-20 w-20 place-items-center rounded-full bg-white/50 text-2xl text-zinc-300 sm:h-28 sm:w-28">
+            ?
+          </div>
+        )}
+      </div>
       <span className="text-sm font-black tracking-tight" style={{ color: POKEMON_NAVY }}>
         {titleCase(member.name)}
       </span>
@@ -315,6 +333,7 @@ function AnalysisView({ analysis }: { analysis: TeamAnalysis }) {
               subtitle="Threats no one on your team covers."
               threats={analysis.gaps}
               analysis={analysis}
+              showRowStatus
             />
           )}
 
@@ -346,6 +365,8 @@ function AnalysisView({ analysis }: { analysis: TeamAnalysis }) {
           subtitle="At least one teammate beats or resists these types."
           threats={analysis.threats.filter((t) => t.status === "covered")}
           analysis={analysis}
+          showRowStatus={false}
+          sectionBadge="covered"
         />
       </div>
     </section>
@@ -394,18 +415,33 @@ function ThreatList({
   subtitle,
   threats,
   analysis,
+  showRowStatus = true,
+  sectionBadge,
 }: {
   title: string;
   subtitle: string;
   threats: TeamAnalysis["threats"];
   analysis: TeamAnalysis;
+  showRowStatus?: boolean;
+  sectionBadge?: CoverageStatus;
 }) {
   if (threats.length === 0) return null;
   const nameBySlug = new Map(analysis.members.map((m) => [m.slug, m.name]));
+  const sectionStyle = sectionBadge ? STATUS_STYLES[sectionBadge] : null;
+  const renderNames = (slugs: string[]) =>
+    slugs.map((slug) => titleCase(nameBySlug.get(slug) ?? slug)).join(", ");
   return (
     <section>
-      <header className="mb-3">
+      <header className="mb-3 flex items-baseline gap-3">
         <h3 className="text-sm font-bold uppercase tracking-wider">{title}</h3>
+        {sectionStyle && (
+          <span
+            className="rounded px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider"
+            style={{ backgroundColor: sectionStyle.bg, color: sectionStyle.text }}
+          >
+            {sectionStyle.label}
+          </span>
+        )}
         <p className="text-xs text-zinc-500">{subtitle}</p>
       </header>
       <ul className="flex flex-col gap-2">
@@ -415,8 +451,9 @@ function ThreatList({
           return (
             <li
               key={t.type}
-              className="flex flex-col gap-2 rounded-2xl border border-zinc-200 bg-white p-4 sm:flex-row sm:items-center sm:gap-4"
+              className="grid gap-3 rounded-2xl border border-zinc-200 bg-white p-4 sm:grid-cols-[180px_1fr] sm:items-start sm:gap-4"
             >
+              {/* Left: type pill (plus optional per-row status) */}
               <div className="flex items-center gap-3">
                 <span
                   className="rounded-full px-3 py-1 text-xs font-bold capitalize text-white"
@@ -424,43 +461,40 @@ function ThreatList({
                 >
                   {t.type}
                 </span>
-                <span
-                  className="rounded px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider"
-                  style={{ backgroundColor: s.bg, color: s.text }}
-                >
-                  {s.label}
-                </span>
-              </div>
-              <div className="flex flex-col gap-1 text-xs text-zinc-600 sm:flex-1">
-                <span>
-                  <strong className="font-semibold" style={{ color: POKEMON_NAVY }}>
-                    Weak:
-                  </strong>{" "}
-                  {t.weakMembers
-                    .map((slug) => titleCase(nameBySlug.get(slug) ?? slug))
-                    .join(", ")}
-                </span>
-                {t.offensiveCounters.length > 0 && (
-                  <span>
-                    <strong className="font-semibold" style={{ color: POKEMON_NAVY }}>
-                      Offensive answer:
-                    </strong>{" "}
-                    {t.offensiveCounters
-                      .map((slug) => titleCase(nameBySlug.get(slug) ?? slug))
-                      .join(", ")}
+                {showRowStatus && (
+                  <span
+                    className="rounded px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider"
+                    style={{ backgroundColor: s.bg, color: s.text }}
+                  >
+                    {s.label}
                   </span>
+                )}
+              </div>
+
+              {/* Right: tabular weak/offensive/defensive rows so the labels and
+                  values line up both within a row and across rows. */}
+              <dl className="grid grid-cols-[max-content_1fr] gap-x-3 gap-y-1 text-xs text-zinc-600">
+                <dt className="font-semibold" style={{ color: POKEMON_NAVY }}>
+                  Weak:
+                </dt>
+                <dd>{renderNames(t.weakMembers)}</dd>
+                {t.offensiveCounters.length > 0 && (
+                  <>
+                    <dt className="font-semibold" style={{ color: POKEMON_NAVY }}>
+                      Offensive answer:
+                    </dt>
+                    <dd>{renderNames(t.offensiveCounters)}</dd>
+                  </>
                 )}
                 {t.defensiveCounters.length > 0 && (
-                  <span>
-                    <strong className="font-semibold" style={{ color: POKEMON_NAVY }}>
+                  <>
+                    <dt className="font-semibold" style={{ color: POKEMON_NAVY }}>
                       Defensive answer:
-                    </strong>{" "}
-                    {t.defensiveCounters
-                      .map((slug) => titleCase(nameBySlug.get(slug) ?? slug))
-                      .join(", ")}
-                  </span>
+                    </dt>
+                    <dd>{renderNames(t.defensiveCounters)}</dd>
+                  </>
                 )}
-              </div>
+              </dl>
             </li>
           );
         })}
