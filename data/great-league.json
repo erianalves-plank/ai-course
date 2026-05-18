@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-14T20:51:08.208Z",
+  "scrapedAt": "2026-05-18T19:25:30.235Z",
   "source": "https://pokebase.app/pokemon-go/tier-lists/great-league-tier-list",
   "league": "great",
   "pokemon": [
@@ -40,7 +40,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
     },
     {
       "slug": "tinkaton",
@@ -79,7 +80,8 @@
           "type": "steel",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
     },
     {
       "slug": "mandibuzz",
@@ -124,7 +126,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
     },
     {
       "slug": "shadow-drapion",
@@ -157,7 +160,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
     },
     {
       "slug": "empoleon",
@@ -190,7 +194,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
     },
     {
       "slug": "shadow-empoleon",
@@ -223,7 +228,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
     },
     {
       "slug": "cradily",
@@ -256,7 +262,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
     },
     {
       "slug": "dusclops",
@@ -294,7 +301,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
     },
     {
       "slug": "altaria",
@@ -327,7 +335,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
     },
     {
       "slug": "azumarill",
@@ -366,7 +375,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
     },
     {
       "slug": "shadow-talonflame",
@@ -379,7 +389,8 @@
       "rank": 1,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-talonflame",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
     },
     {
       "slug": "shadow-annihilape",
@@ -412,7 +423,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
     },
     {
       "slug": "guzzlord",
@@ -457,7 +469,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
     },
     {
       "slug": "regidrago",
@@ -489,7 +502,8 @@
           "type": "dragon",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png"
     },
     {
       "slug": "golisopod",
@@ -502,7 +516,8 @@
       "rank": 5,
       "url": "https://pokebase.app/pokemon-go/pokemon/golisopod",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png"
     },
     {
       "slug": "toxapex",
@@ -535,7 +550,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
     },
     {
       "slug": "corviknight",
@@ -568,7 +584,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
     },
     {
       "slug": "mimikyu",
@@ -607,7 +624,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
     },
     {
       "slug": "doublade",
@@ -640,7 +658,8 @@
           "type": "steel",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png"
     },
     {
       "slug": "diggersby",
@@ -679,7 +698,8 @@
           "type": "normal",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
     },
     {
       "slug": "dedenne",
@@ -712,7 +732,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
     },
     {
       "slug": "drapion",
@@ -745,7 +766,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
     },
     {
       "slug": "gastrodon---west-sea",
@@ -784,7 +806,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
     },
     {
       "slug": "shadow-dusknoir",
@@ -816,7 +839,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
     },
     {
       "slug": "togekiss",
@@ -855,7 +879,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
     },
     {
       "slug": "gastrodon---east-sea",
@@ -894,7 +919,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
     },
     {
       "slug": "claydol",
@@ -907,7 +933,8 @@
       "rank": 17,
       "url": "https://pokebase.app/pokemon-go/pokemon/claydol",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
     },
     {
       "slug": "forretress",
@@ -920,7 +947,8 @@
       "rank": 18,
       "url": "https://pokebase.app/pokemon-go/pokemon/forretress",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
     },
     {
       "slug": "shadow-forretress",
@@ -959,7 +987,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
     },
     {
       "slug": "shadow-quagsire",
@@ -998,7 +1027,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
     },
     {
       "slug": "shadow-sableye",
@@ -1037,7 +1067,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
     },
     {
       "slug": "quagsire",
@@ -1076,7 +1107,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
     },
     {
       "slug": "shadow-gligar",
@@ -1109,7 +1141,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
     },
     {
       "slug": "shadow-feraligatr",
@@ -1141,7 +1174,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
     },
     {
       "slug": "feraligatr",
@@ -1179,7 +1213,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
     },
     {
       "slug": "furret",
@@ -1211,7 +1246,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png"
     },
     {
       "slug": "jumpluff",
@@ -1244,7 +1280,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
     },
     {
       "slug": "shadow-jumpluff",
@@ -1277,7 +1314,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
     },
     {
       "slug": "shadow-lapras",
@@ -1316,7 +1354,8 @@
           "type": "normal",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
     },
     {
       "slug": "shadow-marowak",
@@ -1348,7 +1387,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
     },
     {
       "slug": "lapras",
@@ -1387,7 +1427,8 @@
           "type": "normal",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
     },
     {
       "slug": "dewgong",
@@ -1420,7 +1461,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
     },
     {
       "slug": "alolan-sandslash",
@@ -1453,7 +1495,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10102.png"
     },
     {
       "slug": "shadow-alolan-sandslash",
@@ -1486,7 +1529,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10102.png"
     },
     {
       "slug": "shadow-charizard",
@@ -1525,7 +1569,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
     },
     {
       "slug": "shadow-blastoise",
@@ -1557,7 +1602,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
     },
     {
       "slug": "shadow-greninja",
@@ -1590,7 +1636,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
     },
     {
       "slug": "shadow-giratina-altered-forme",
@@ -1635,7 +1682,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
     },
     {
       "slug": "shadow-grumpig",
@@ -1667,7 +1715,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
     },
     {
       "slug": "shadow-galarian-weezing",
@@ -1700,7 +1749,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
     },
     {
       "slug": "annihilape",
@@ -1733,7 +1783,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
     },
     {
       "slug": "arctibax",
@@ -1766,7 +1817,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png"
     },
     {
       "slug": "skeledirge",
@@ -1805,7 +1857,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
     },
     {
       "slug": "spidops",
@@ -1843,7 +1896,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
     },
     {
       "slug": "dragalge",
@@ -1876,7 +1930,8 @@
           "type": "dragon",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
     },
     {
       "slug": "pangoro",
@@ -1909,7 +1964,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
     },
     {
       "slug": "shadow-golurk",
@@ -1942,7 +1998,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
     },
     {
       "slug": "greninja",
@@ -1975,7 +2032,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
     },
     {
       "slug": "carbink",
@@ -2014,7 +2072,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
     },
     {
       "slug": "goodra",
@@ -2058,7 +2117,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
     },
     {
       "slug": "bastiodon",
@@ -2091,7 +2151,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
     },
     {
       "slug": "abomasnow",
@@ -2130,7 +2191,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png"
     },
     {
       "slug": "metang",
@@ -2163,7 +2225,8 @@
           "type": "normal",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png"
     },
     {
       "slug": "spiritomb",
@@ -2196,7 +2259,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
     },
     {
       "slug": "dusknoir",
@@ -2228,7 +2292,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
     },
     {
       "slug": "shadow-abomasnow",
@@ -2261,7 +2326,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png"
     },
     {
       "slug": "registeel",
@@ -2273,7 +2339,8 @@
       "rank": 21,
       "url": "https://pokebase.app/pokemon-go/pokemon/registeel",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png"
     },
     {
       "slug": "shadow-whiscash",
@@ -2306,7 +2373,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
     },
     {
       "slug": "grumpig",
@@ -2338,7 +2406,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
     },
     {
       "slug": "whiscash",
@@ -2371,7 +2440,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
     },
     {
       "slug": "sableye",
@@ -2410,7 +2480,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
     },
     {
       "slug": "miltank",
@@ -2448,7 +2519,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
     },
     {
       "slug": "dunsparce",
@@ -2480,7 +2552,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
     },
     {
       "slug": "swampert",
@@ -2513,7 +2586,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
     },
     {
       "slug": "shadow-steelix",
@@ -2558,7 +2632,8 @@
           "type": "dragon",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
     },
     {
       "slug": "scizor",
@@ -2597,7 +2672,8 @@
           "type": "bug",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
     },
     {
       "slug": "shadow-swampert",
@@ -2630,7 +2706,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
     },
     {
       "slug": "shadow-typhlosion",
@@ -2662,7 +2739,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
     },
     {
       "slug": "galarian-moltres",
@@ -2695,7 +2773,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10171.png"
     },
     {
       "slug": "galarian-weezing",
@@ -2728,7 +2807,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
     },
     {
       "slug": "marowak",
@@ -2760,7 +2840,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
     },
     {
       "slug": "blastoise",
@@ -2792,7 +2873,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
     },
     {
       "slug": "wigglytuff",
@@ -2825,7 +2907,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
     },
     {
       "slug": "charizard",
@@ -2864,7 +2947,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
     },
     {
       "slug": "fearow",
@@ -2897,7 +2981,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
     },
     {
       "slug": "shadow-altaria",
@@ -2930,7 +3015,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
     },
     {
       "slug": "bellibolt",
@@ -2968,7 +3054,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png"
     },
     {
       "slug": "lokix",
@@ -3001,7 +3088,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
     },
     {
       "slug": "kommo-o",
@@ -3034,7 +3122,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
     },
     {
       "slug": "florges",
@@ -3072,7 +3161,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
     },
     {
       "slug": "aurorus",
@@ -3105,7 +3195,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
     },
     {
       "slug": "malamar",
@@ -3138,7 +3229,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
     },
     {
       "slug": "golurk",
@@ -3171,7 +3263,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
     },
     {
       "slug": "whimsicott",
@@ -3222,7 +3315,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
     },
     {
       "slug": "shadow-bastiodon",
@@ -3255,7 +3349,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
     },
     {
       "slug": "gliscor",
@@ -3294,7 +3389,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
     },
     {
       "slug": "shadow-latias",
@@ -3327,7 +3423,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png"
     },
     {
       "slug": "walrein",
@@ -3360,7 +3457,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png"
     },
     {
       "slug": "lickilicky",
@@ -3398,7 +3496,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
     },
     {
       "slug": "jirachi",
@@ -3431,7 +3530,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
     },
     {
       "slug": "latias",
@@ -3464,7 +3564,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png"
     },
     {
       "slug": "torkoal",
@@ -3502,7 +3603,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
     },
     {
       "slug": "shadow-walrein",
@@ -3541,7 +3643,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png"
     },
     {
       "slug": "shadow-cradily",
@@ -3574,7 +3677,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
     },
     {
       "slug": "ludicolo",
@@ -3619,7 +3723,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png"
     },
     {
       "slug": "steelix",
@@ -3670,7 +3775,8 @@
           "type": "dragon",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
     },
     {
       "slug": "shadow-donphan",
@@ -3708,7 +3814,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
     },
     {
       "slug": "umbreon",
@@ -3752,7 +3859,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
     },
     {
       "slug": "lanturn",
@@ -3791,7 +3899,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
     },
     {
       "slug": "ariados",
@@ -3824,7 +3933,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
     },
     {
       "slug": "shadow-dragonite",
@@ -3869,7 +3979,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
     },
     {
       "slug": "alolan-marowak",
@@ -3902,7 +4013,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png"
     },
     {
       "slug": "shadow-alolan-marowak",
@@ -3935,7 +4047,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png"
     },
     {
       "slug": "shadow-poliwrath",
@@ -3980,7 +4093,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
     },
     {
       "slug": "machamp",
@@ -4018,7 +4132,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
     },
     {
       "slug": "shadow-machamp",
@@ -4056,7 +4171,8 @@
           "type": "rock",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
     },
     {
       "slug": "clefable",
@@ -4068,7 +4184,8 @@
       "rank": 32,
       "url": "https://pokebase.app/pokemon-go/pokemon/clefable",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
     },
     {
       "slug": "venusaur",
@@ -4101,7 +4218,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
     },
     {
       "slug": "shadow-venusaur",
@@ -4134,7 +4252,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
     },
     {
       "slug": "kingambit",
@@ -4173,7 +4292,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
     },
     {
       "slug": "bombirdier",
@@ -4186,7 +4306,8 @@
       "rank": 2,
       "url": "https://pokebase.app/pokemon-go/pokemon/bombirdier",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
     },
     {
       "slug": "hakamo-o",
@@ -4219,7 +4340,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
     },
     {
       "slug": "cresselia",
@@ -4257,7 +4379,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
     },
     {
       "slug": "giratina-origin-forme",
@@ -4290,7 +4413,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10007.png"
     },
     {
       "slug": "galvantula",
@@ -4323,7 +4447,8 @@
           "type": "bug",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
     },
     {
       "slug": "serperior",
@@ -4361,7 +4486,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
     },
     {
       "slug": "shadow-hippowdon",
@@ -4393,7 +4519,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
     },
     {
       "slug": "froslass",
@@ -4406,7 +4533,8 @@
       "rank": 9,
       "url": "https://pokebase.app/pokemon-go/pokemon/froslass",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
     },
     {
       "slug": "drifblim",
@@ -4445,7 +4573,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
     },
     {
       "slug": "shadow-magnezone",
@@ -4478,7 +4607,8 @@
           "type": "steel",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png"
     },
     {
       "slug": "bronzong",
@@ -4523,7 +4653,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png"
     },
     {
       "slug": "shadow-drifblim",
@@ -4562,7 +4693,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
     },
     {
       "slug": "regirock",
@@ -4600,7 +4732,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
     },
     {
       "slug": "latios",
@@ -4633,7 +4766,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png"
     },
     {
       "slug": "shadow-latios",
@@ -4666,7 +4800,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png"
     },
     {
       "slug": "tropius",
@@ -4699,7 +4834,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png"
     },
     {
       "slug": "medicham",
@@ -4732,7 +4868,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
     },
     {
       "slug": "shadow-ursaring",
@@ -4764,7 +4901,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
     },
     {
       "slug": "qwilfish",
@@ -4797,7 +4935,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
     },
     {
       "slug": "shadow-dragonair",
@@ -4829,7 +4968,8 @@
           "type": "normal",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
     },
     {
       "slug": "togetic",
@@ -4862,7 +5002,8 @@
           "type": "fairy",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png"
     },
     {
       "slug": "alolan-ninetales",
@@ -4901,7 +5042,8 @@
           "type": "psychic",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
     },
     {
       "slug": "shadow-trevenant",
@@ -4934,7 +5076,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
     },
     {
       "slug": "shadow-zweilous",
@@ -4947,7 +5090,8 @@
       "rank": 2,
       "url": "https://pokebase.app/pokemon-go/pokemon/shadow-zweilous",
       "fastMoves": [],
-      "chargedMoves": []
+      "chargedMoves": [],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
     },
     {
       "slug": "shadow-palkia",
@@ -4986,7 +5130,8 @@
           "type": "fire",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
     },
     {
       "slug": "runerigus",
@@ -5025,7 +5170,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
     },
     {
       "slug": "melmetal",
@@ -5057,7 +5203,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
     },
     {
       "slug": "togedemaru",
@@ -5096,7 +5243,8 @@
           "type": "steel",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
     },
     {
       "slug": "dubwool",
@@ -5128,7 +5276,8 @@
           "type": "electric",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
     },
     {
       "slug": "meowscarada",
@@ -5161,7 +5310,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
     },
     {
       "slug": "lurantis",
@@ -5199,7 +5349,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
     },
     {
       "slug": "dondozo",
@@ -5231,7 +5382,8 @@
           "type": "dragon",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
     },
     {
       "slug": "urshifu---single-strike-style",
@@ -5264,7 +5416,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
     },
     {
       "slug": "urshifu---rapid-strike-style",
@@ -5297,7 +5450,8 @@
           "type": "water",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png"
     },
     {
       "slug": "talonflame",
@@ -5336,7 +5490,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
     },
     {
       "slug": "trevenant",
@@ -5369,7 +5524,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
     },
     {
       "slug": "galarian-stunfisk",
@@ -5402,7 +5558,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
     },
     {
       "slug": "zweilous",
@@ -5435,7 +5592,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
     },
     {
       "slug": "cofagrigus",
@@ -5467,7 +5625,8 @@
           "type": "dark",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
     },
     {
       "slug": "scrafty",
@@ -5500,7 +5659,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
     },
     {
       "slug": "hisuian-zoroark",
@@ -5533,7 +5693,8 @@
           "type": "ghost",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
     },
     {
       "slug": "hisuian-lilligant",
@@ -5566,7 +5727,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png"
     },
     {
       "slug": "gallade",
@@ -5599,7 +5761,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
     },
     {
       "slug": "shadow-regirock",
@@ -5631,7 +5794,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
     },
     {
       "slug": "pelipper",
@@ -5676,7 +5840,8 @@
           "type": "ice",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
     },
     {
       "slug": "skarmory",
@@ -5709,7 +5874,8 @@
           "type": "flying",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
     },
     {
       "slug": "meganium",
@@ -5741,7 +5907,8 @@
           "type": "ground",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
     },
     {
       "slug": "lickitung",
@@ -5773,7 +5940,8 @@
           "type": "grass",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
     },
     {
       "slug": "shadow-victreebel",
@@ -5806,7 +5974,8 @@
           "type": "poison",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
     },
     {
       "slug": "shadow-machoke",
@@ -5838,7 +6007,8 @@
           "type": "fighting",
           "category": "charged"
         }
-      ]
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
     }
   ]
 }

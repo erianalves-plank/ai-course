@@ -2,7 +2,6 @@ import Link from "next/link";
 import { TeamBuilder, type PokemonEntry } from "../_components/TeamBuilder";
 import data from "../../../data/great-league.json";
 import type { PokemonType } from "../lib/pokeapi";
-import { fetchArtworkUrl } from "../lib/pokebase-artwork";
 
 export const metadata = {
   title: "Team builder — Pokémon GO PVP Analysis",
@@ -16,23 +15,16 @@ const POKEMON_NAVY = "#1E3A8A";
 
 const TIER_ORDER = ["S", "A+", "A", "B+", "B", "C"];
 
-export default async function TeamPage() {
-  const baseEntries = data.pokemon.map((p) => ({
-    slug: p.slug,
-    name: p.name,
-    types: p.types as PokemonType[],
-    tier: p.tier,
-    rank: p.rank,
-  }));
-
-  // Resolve PokéAPI artwork URLs at build time. Each fetch is cached, so
-  // overlaps with the pokédex grid don't double-charge.
-  const artworkUrls = await Promise.all(
-    baseEntries.map((p) => fetchArtworkUrl(p.slug)),
-  );
-
-  const pokemon: PokemonEntry[] = baseEntries
-    .map((p, i) => ({ ...p, imageUrl: artworkUrls[i] }))
+export default function TeamPage() {
+  const pokemon: PokemonEntry[] = data.pokemon
+    .map((p) => ({
+      slug: p.slug,
+      name: p.name,
+      types: p.types as PokemonType[],
+      tier: p.tier,
+      rank: p.rank,
+      imageUrl: p.imageUrl ?? null,
+    }))
     .sort((a, b) => {
       const ta = TIER_ORDER.indexOf(a.tier);
       const tb = TIER_ORDER.indexOf(b.tier);
