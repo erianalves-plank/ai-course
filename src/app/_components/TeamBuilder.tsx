@@ -301,49 +301,53 @@ function AnalysisView({ analysis }: { analysis: TeamAnalysis }) {
         ))}
       </header>
 
-      <SummaryStrip
-        stackedCount={stackedCount}
-        exposedCount={exposedCount}
-        coveredCount={coveredCount}
-      />
+      <div className="grid gap-6 lg:grid-cols-2 lg:gap-8">
+        <div className="flex flex-col gap-6">
+          <SummaryStrip
+            stackedCount={stackedCount}
+            exposedCount={exposedCount}
+            coveredCount={coveredCount}
+          />
 
-      {analysis.gaps.length > 0 && (
+          {analysis.gaps.length > 0 && (
+            <ThreatList
+              title="Gaps to address"
+              subtitle="Threats no one on your team covers."
+              threats={analysis.gaps}
+              analysis={analysis}
+            />
+          )}
+
+          {analysis.teamResistances.length > 0 && (
+            <section>
+              <h3 className="mb-3 text-sm font-bold uppercase tracking-wider">
+                Shared resistances
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {analysis.teamResistances.map((r) => (
+                  <span
+                    key={r.type}
+                    className="inline-flex items-center gap-2 rounded-full px-3 py-1 text-xs font-semibold text-white"
+                    style={{ backgroundColor: TYPE_COLORS[r.type].pill }}
+                  >
+                    {titleCase(r.type)}
+                    <span className="rounded-full bg-white/30 px-1.5 text-[10px]">
+                      {r.count}×
+                    </span>
+                  </span>
+                ))}
+              </div>
+            </section>
+          )}
+        </div>
+
         <ThreatList
-          title="Gaps to address"
-          subtitle="Threats no one on your team covers."
-          threats={analysis.gaps}
+          title="Covered threats"
+          subtitle="At least one teammate beats or resists these types."
+          threats={analysis.threats.filter((t) => t.status === "covered")}
           analysis={analysis}
         />
-      )}
-
-      <ThreatList
-        title="Covered threats"
-        subtitle="At least one teammate beats or resists these types."
-        threats={analysis.threats.filter((t) => t.status === "covered")}
-        analysis={analysis}
-      />
-
-      {analysis.teamResistances.length > 0 && (
-        <section>
-          <h3 className="mb-3 text-sm font-bold uppercase tracking-wider">Shared resistances</h3>
-          <div className="flex flex-wrap gap-2">
-            {analysis.teamResistances.map((r) => (
-              <span
-                key={r.type}
-                className="inline-flex items-center gap-2 rounded-full px-3 py-1 text-xs font-semibold text-white"
-                style={{ backgroundColor: TYPE_COLORS[r.type].pill }}
-              >
-                {titleCase(r.type)}
-                <span
-                  className="rounded-full bg-white/30 px-1.5 text-[10px]"
-                >
-                  {r.count}×
-                </span>
-              </span>
-            ))}
-          </div>
-        </section>
-      )}
+      </div>
     </section>
   );
 }

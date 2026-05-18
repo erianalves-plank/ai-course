@@ -99,6 +99,13 @@ export default async function Home() {
             Open the Pokédex
           </Link>
           <Link
+            href="/team"
+            className="inline-flex h-11 items-center justify-center rounded-full border-2 bg-white px-7 text-sm font-semibold shadow-sm transition-colors hover:bg-zinc-50"
+            style={{ borderColor: POKEBALL_RED, color: POKEBALL_RED }}
+          >
+            Build a team
+          </Link>
+          <Link
             href="/wip"
             className="inline-flex h-11 items-center justify-center px-2 text-sm font-medium text-zinc-700 underline-offset-4 hover:underline"
           >
