@@ -45,6 +45,7 @@ type PokemonEntry = TierListEntry & {
   url: string;
   fastMoves: Move[];
   chargedMoves: Move[];
+  imageUrl: string | null;
 };
 
 type ScrapeOutput = {
@@ -54,7 +55,10 @@ type ScrapeOutput = {
   pokemon: PokemonEntry[];
 };
 
-async function fetchCached(url: string): Promise<string> {
+async function fetchCached(
+  url: string,
+  options: { delayMs?: number } = {},
+): Promise<string> {
   const cacheKey = url.replace(/[^a-z0-9-]/gi, "_") + ".html";
   const cachePath = join(CACHE_DIR, cacheKey);
   try {
@@ -63,7 +67,7 @@ async function fetchCached(url: string): Promise<string> {
     /* not cached, fetch fresh */
   }
 
-  await new Promise((r) => setTimeout(r, DELAY_MS));
+  await new Promise((r) => setTimeout(r, options.delayMs ?? DELAY_MS));
   process.stdout.write(`  fetching ${url}\n`);
   const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
   if (!res.ok) {
@@ -73,6 +77,96 @@ async function fetchCached(url: string): Promise<string> {
   await mkdir(dirname(cachePath), { recursive: true });
   await writeFile(cachePath, html, "utf-8");
   return html;
+}
+
+const REGION_PREFIX_TO_SUFFIX: Record<string, string> = {
+  alolan: "alola",
+  galarian: "galar",
+  hisuian: "hisui",
+  paldean: "paldea",
+};
+
+function pokebaseSlugToPokeApiNames(slug: string): string[] {
+  // Primary candidate: best-effort normalization to PokéAPI naming.
+  let primary = slug.toLowerCase().replace(/-+$/, "");
+  primary = primary.replace(/^shadow-/, "");
+  for (const [prefix, suffix] of Object.entries(REGION_PREFIX_TO_SUFFIX)) {
+    if (primary.startsWith(`${prefix}-`)) {
+      primary = `${primary.slice(prefix.length + 1)}-${suffix}`;
+      break;
+    }
+  }
+  primary = primary.replace(/---/g, "-");
+  primary = primary.replace(/-forme$/, "");
+  primary = primary.replace(/-style$/, "");
+
+  // Fallback: base species name only (handles form variants PokéAPI doesn't
+  // track separately, e.g. gastrodon's regional appearances).
+  const baseSpecies = slug
+    .toLowerCase()
+    .replace(/-+$/, "")
+    .replace(/^shadow-/, "")
+    .replace(/^(alolan|galarian|hisuian|paldean|mega)-/, "")
+    .split("-")[0];
+
+  return Array.from(new Set([primary, baseSpecies]));
+}
+
+type PokeApiResponse = {
+  sprites: {
+    other?: {
+      "official-artwork"?: { front_default: string | null };
+    };
+  };
+};
+
+type SpeciesResponse = {
+  varieties: { pokemon: { name: string }; is_default: boolean }[];
+};
+
+async function fetchPokemonArtwork(name: string): Promise<string | null> {
+  try {
+    // PokéAPI is fine with bursts; skip the politeness delay we use for
+    // pokébase. Filesystem cache lives alongside the pokébase HTML.
+    const text = await fetchCached(
+      `https://pokeapi.co/api/v2/pokemon/${name}`,
+      { delayMs: 0 },
+    );
+    const data = JSON.parse(text) as PokeApiResponse;
+    return data.sprites?.other?.["official-artwork"]?.front_default ?? null;
+  } catch {
+    return null;
+  }
+}
+
+async function fetchDefaultVariety(species: string): Promise<string | null> {
+  try {
+    const text = await fetchCached(
+      `https://pokeapi.co/api/v2/pokemon-species/${species}`,
+      { delayMs: 0 },
+    );
+    const data = JSON.parse(text) as SpeciesResponse;
+    return data.varieties.find((v) => v.is_default)?.pokemon.name ?? null;
+  } catch {
+    return null;
+  }
+}
+
+async function fetchArtworkUrl(slug: string): Promise<string | null> {
+  const candidates = pokebaseSlugToPokeApiNames(slug);
+  for (const name of candidates) {
+    const art = await fetchPokemonArtwork(name);
+    if (art) return art;
+  }
+  // Last resort: some species (Mimikyu) only expose form-suffixed names like
+  // `mimikyu-disguised`. The species endpoint tells us which variety is the
+  // default — we then try that one Pokémon endpoint.
+  const species = candidates[candidates.length - 1];
+  const defaultVariety = await fetchDefaultVariety(species);
+  if (defaultVariety) {
+    return fetchPokemonArtwork(defaultVariety);
+  }
+  return null;
 }
 
 function isPokemonType(s: string): s is PokemonType {
@@ -226,11 +320,13 @@ async function main() {
       continue;
     }
     const { fastMoves, chargedMoves } = parseDetailMoves(detailHtml);
+    const imageUrl = await fetchArtworkUrl(entry.slug);
     out.push({
       ...entry,
       url,
       fastMoves,
       chargedMoves,
+      imageUrl,
     });
   }
 

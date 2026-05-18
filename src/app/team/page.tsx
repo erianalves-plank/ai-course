@@ -23,6 +23,7 @@ export default function TeamPage() {
       types: p.types as PokemonType[],
       tier: p.tier,
       rank: p.rank,
+      imageUrl: p.imageUrl ?? null,
     }))
     .sort((a, b) => {
       const ta = TIER_ORDER.indexOf(a.tier);
