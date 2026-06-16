@@ -8,4 +8,13 @@ export default defineConfig({
     video: false,
     pageLoadTimeout: 180000,
   },
+  component: {
+    devServer: {
+      framework: "next",
+      bundler: "webpack",
+    },
+    specPattern: "cypress/component/**/*.cy.tsx",
+    supportFile: "cypress/support/component.ts",
+    video: false,
+  },
 });
