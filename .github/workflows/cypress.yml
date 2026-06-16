@@ -1,0 +1,30 @@
+name: cypress
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: E2E (stubbed)
+        uses: cypress-io/github-action@v6
+        with:
+          start: npm run dev:stub
+          wait-on: "http://localhost:3000"
+          browser: chrome
+          spec: cypress/e2e/**/*.cy.ts
+      - name: Component tests
+        uses: cypress-io/github-action@v6
+        with:
+          install: false
+          component: true
+      - name: Upload screenshots on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cypress-screenshots
+          path: cypress/screenshots

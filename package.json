@@ -7,7 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "scrape:great-league": "tsx scripts/scrape-pokebase.ts"
+    "scrape:great-league": "tsx scripts/scrape-pokebase.ts",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:capture": "tsx scripts/capture-pokeapi-fixtures.ts",
+    "dev:stub": "CYPRESS_MODE=stub NEXT_PUBLIC_POKEAPI_BASE=http://localhost:4000/api/v2 concurrently \"tsx cypress/fixture-server.ts\" \"next dev\"",
+    "cy:run:stub": "start-server-and-test dev:stub http://localhost:3000 'cypress run'",
+    "cy:open:ct": "cypress open --component",
+    "cy:run:ct": "cypress run --component"
   },
   "dependencies": {
     "next": "16.2.6",
@@ -15,15 +22,21 @@
     "react-dom": "19.2.4"
   },
   "devDependencies": {
+    "@cypress/react": "^9.0.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "cheerio": "^1.2.0",
+    "concurrently": "^10.0.3",
+    "cypress": "^15.17.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
+    "html-webpack-plugin": "^5.6.7",
+    "start-server-and-test": "^3.0.11",
     "tailwindcss": "^4",
     "tsx": "^4.22.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "webpack": "^5.107.2"
   }
 }
