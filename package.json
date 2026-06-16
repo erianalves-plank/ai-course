@@ -9,7 +9,8 @@
     "lint": "eslint",
     "scrape:great-league": "tsx scripts/scrape-pokebase.ts",
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "cy:capture": "tsx scripts/capture-pokeapi-fixtures.ts"
   },
   "dependencies": {
     "next": "16.2.6",
