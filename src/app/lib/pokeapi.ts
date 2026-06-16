@@ -68,7 +68,8 @@ type SpeciesResource = {
   }[];
 };
 
-const POKEAPI = "https://pokeapi.co/api/v2";
+const POKEAPI =
+  process.env.NEXT_PUBLIC_POKEAPI_BASE ?? "https://pokeapi.co/api/v2";
 const POOL_SIZE = 151;
 export const GEN_1_MAX = 151;
 
